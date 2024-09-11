@@ -27,7 +27,7 @@
 * Collect taxes
 ## Government in egypt
 * Several small farming villages $\rArr$ Upper and lower Egypt
-* $\approx 3100 BCE$: The two kingdoms united
+* $\sim 3100 BCE$: The two kingdoms united
 * **<p style = "font-family: Garamond">"To the people of Egypt, the ruler later called pharaoh, was more than a king. He was also considered a god and was believed to possess the secrets of heaven and earth They were despotic rulers. The pharaoh was responsible for all aspects of life in Egypt. These included keeping the public works in order, directing the army, keeping peace, and making laws. He also controlled trade and the economy. Egyptian peasants paid most of their taxes in grain, which was stored in the royal warehouses. If a famine occurred, feeding the people became the responsibility of the pharaoh.
 Taxes and payments from other countries were used to maintain public buildings, irrigation works and ports. The pharaoh owned Egypt's mines and quarries and the trading fleets that sailed to foreign lands."</p>**
 ##

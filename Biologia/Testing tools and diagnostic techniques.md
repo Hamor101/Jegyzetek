@@ -24,12 +24,12 @@
 * Mainly used to detect diseases or dysfunctions
 
 **X-rays:**
-* examine the muscoloskeletal system (and lung)
+* examine the musculoskeletal system (and lung)
 * bones create shadows on the x-ray film\
 
 **Ultrasound:**
 
-* the tool sens vibrations through the tested area/organ and the reflected ultrasound creates the image
+* the tool sends vibrations through the tested area/organ and the reflected ultrasound creates the image
 * soft tissues can be examined
   
 **MRI:**

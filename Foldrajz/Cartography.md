@@ -21,7 +21,7 @@ $47\space000 cm = 0.47km$<br>
 $321\space400cm = 3.214km$<br>
 $4\space000\space000cm = 4km$
 ### Task: Calculate distance from casablanca to Cairo\
-Ratio sccale is 1:37 000 000\
+Ratio scale is 1:37 000 000\
 Distance on map is 10.2cm\
 $10.2 *37\space000\space000 = 377\space400\space000cm$\
 **Casablanca is 377 400 000cm from Cairo**\

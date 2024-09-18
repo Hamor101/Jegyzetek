@@ -59,18 +59,20 @@ Used for:
 * Religious scripts
 * Record tax collection\
 
-In ancient times, the **literacy rate** was $<10\%$\
+In ancient times, the **literacy rate** was $<10\%$
 | Country | Name of writing | Writing material | what characters stood for |
 | ----- | ----- | ----- | ----- |
 |Egypt | Cuneiform | Clay | syllables
 | Mesopotamia | Hieroglyphic | Papyrus | Pictures and consonants |
 
-**<p style="font-family: 'Garamond'">Cuneiform was hard to learn. To master it children usually went to a temple school. Using a clay tablet as a textbook, the teacher wrote on the left-hand side, and the pupil copied the model on the right. Any mistaked could be smoothed out. The pupil began by making individual wedges in various positions and then went on to groups of wedges. Thousands of groups had to be learned. Finally the pupil was assigned a book to copy, but the work was slow and laborious. Many first chapters of all the important Sumerian works have been handed down from students' tablets, but only fragments of the rest of the books survive**</p>
+**<p style="font-family: 'Garamond'">Cuneiform hard to learn. To master it children usually went to a temple school. Using a clay tablet as a textbook, the teacher wrote on the left-hand side, and the pupil copied the model on the right. Any mistaked could be smoothed out. The pupil began by making individual wedges in various positions and then went on to groups of wedges. Thousands of groups had to be learned. Finally the pupil was assigned a book to copy, but the work was slow and laborious. Many first chapters of all the important Sumerian works have been handed down from students' tablets, but only fragments of the rest of the books survive**</p>
 ## Culture of the Ancient Orient
 ### The pyramids of Giza
 * Tombs of pharaohs
 * They were only used in the **3rd millenium BCE**
 * The Sphinxs has the body of a lion and the head of a human
 * Tutankhamen - The first pharaoh whose tomb was *mostly* intact
+### Abu Simbel Temple
+* Dedicated to Ramses
 * 
 </span>

@@ -74,5 +74,9 @@ In ancient times, the **literacy rate** was $<10\%$
 * Tutankhamen - The first pharaoh whose tomb was *mostly* intact
 ### Abu Simbel Temple
 * Dedicated to Ramses
-* 
+## Painting
+* People were painted with their torso facing the viewer, but the legs facing to the size
+* People of different importance were painted with different sizes
+## Sculpture
+* very static
 </span>

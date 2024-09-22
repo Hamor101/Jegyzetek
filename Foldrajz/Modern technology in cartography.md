@@ -1,4 +1,4 @@
-<span style="font-family: 'Cascadia Code'; color: #ccccf0">
+<span style="font-family: 'Cascadia Code'; color: #ddddcc">
 
 # Modern technology in cartography
 ## Remote sensing
@@ -16,5 +16,15 @@ Can be used for military of civillian purposes among others
 ## Global Positioning System
 * Used for determining position
 * 24-30 satellites
-
+* LEO - Low Earth Orbit
+*  * Densely populated
+*  * Lots of scientific satellites
+*  * Low latency
+*  * Requires regular course correction
+*  * Telecommunication
+* MEO - Medium Earth Orbit
+*  * Satellite shielding is required due to radiation
+*  * GPS, military, surveilance
+* GEO - Geostationary Earth Orbit
+*  * 3 satellites can cover the entire earth
 </span>

@@ -48,15 +48,6 @@ Characterization of the living world's kingdoms:
 * * Multicellular eukaryotes
 * * **No cell wall** (only cell membrane)
 * * Heterotrophs
-## Prokaryotes' kingdom
-* Flagellum[^4]/ Pili[^5]: Movement
-* Cell wall / capsule: Protection
-* Cytoplasm: Gel-like structure rich in water, contains the enzymes of the bacteria
-* Ribosomes: Responsible for protein synthesis
-* Plasmid: Small part of DNA which can be exchanged between two bacteria
-* DNA[^6]: Contains genetic information
 [^3]: In darkness, they are heterotrophs, in light they are autotrophs
-[^4]: plural: flagella, HU: Ostor
-[^5]: singular: pilus, HU: Csilló
-[^6]: A.K.A: Nucleus
+
 </span>

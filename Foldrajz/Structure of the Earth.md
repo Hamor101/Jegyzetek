@@ -4,7 +4,7 @@
 * Data is gathered about the speed  of the waves
 ## Temperature
 * Geothermic gradient: 3$\degree$/100 meters[^1]
-[^1] Every hundred meters, temperature increases by 3 degrees celsius
+[^1]: Every hundred meters, temperature increases by 3 degrees celsius
 * Core temperature: <p style="font-family:'Garamdond'">5-6000$\degree$</p>
 ## Structure
 * Spherical --> Gömbhélyakra tagolt

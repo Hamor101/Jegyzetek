@@ -48,9 +48,9 @@ Cells which have lost the ability to divide
 
 **Types:** \
 **1. Parenchyma: filler tissue in soft parts of plants**
-* * Chlorenchyma[^4]: Cells with several chloroplasts, mainly in leaves
+* * **Chlorenchyma**[^4]: Cells with several chloroplasts, mainly in leaves
 [^4]: táplálékkészító alapszövet
-* * Parenchyma tissue for storage[^5]: Cells have several vacoules to **store food/water**
+* * **Parenchyma tissue for storage**[^5]: Cells have several vacoules to **store food/water**
 * * * Stored food types can be:
 * * * * **Carbohydrates**[^6] e.g starch in rice, potato, corn
 * * * * **Oil**:  e.g walnut, almond
@@ -72,6 +72,6 @@ Cells which have lost the ability to divide
 * living cells with **thickened cell wall**
 * **high cellulose** content
 
-**1. Sclerenchyma:**
+**3. Sclerenchyma:**
 * strengthening tissue of **older plant parts / fruits**
 * **dead cells** with thick cell wall made of **cellulose and lignin**

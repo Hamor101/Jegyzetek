@@ -5,9 +5,9 @@
 * Some evidence comes from **boreholes**, some come from **seismic waves**
 * Data is gathered about the speed  of the waves
 ## Temperature
-* Geothermic gradient: 3$\degree$/100 meters[^1]
+* Geothermic gradient: 3°/100 meters[^1]
 [^1]: Every hundred meters, temperature increases by 3 degrees celsius
-* Core temperature:5-6000$\degree$
+* Core temperature:5-6000°
 
 
 ## Structure

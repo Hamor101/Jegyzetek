@@ -57,4 +57,47 @@
 * THe earth's poles flip over long periods of time
 
 ## Continental drift
-*
+* Theory of A. Wegener 1912
+* Continents are always in motion
+* Based on the facts:
+* * The outline of the continents fit together
+* * Geoglogical evidence
+* Theory was rejected back then
+* * Mechanism of the motion wasn't explained
+
+### Plate tectonics theory
+* In the 1960s the theory was revived
+* Discovered mid-oceanic ridges
+* Main statements
+* * The lithosphere is ~100km thick
+* * * It forms seven main, and several smaller plates:
+* * * * North American plate
+* * * * South American plate
+* * * * African plate
+* * * * Eurasian plate
+* * * * Antarctic plate
+* * * * Pacific plate
+* * * * Australian plate
+* * Plates are in motion due to **convection** currents
+* * Based on motion, differnet boundary types can be established
+
+### Motion of plates
+|Boundary type|Movement|Volcanoes?|Earthquakes?|
+|-----|-----|-----|-----|
+|Constructive / divergent|Away from eachother|$\checkmark$|$\checkmark$|
+|Destructive / convergent:  continental - oceanic|Towards eachother|$\checkmark$|$\checkmark$|
+|Destructive / convergent: continental - continental|Towards eachother, creating mountains|$\empty$|$\checkmark$|
+|Conservative|Side-by-side, either in opposite directions or the same dirrection but with different speeds|$\empty$|$\checkmark$|
+
+## Divergent boundaries
+- Occur in areas of seafloor spreading
+- Upwelling material forms new seafloor
+- shallow-focus earthquakes
+
+## Convergent boundaries
+- Occur in areas of crustal subduction\
+``` Subduction: the process when lithospheric plates meet, and one descends beneath another and dives downward into the mantle. The area is a subduction zone```
+- 3 types:
+- a) continental and oceanic
+- b) oceanic and oceanic
+- c) continental and continental

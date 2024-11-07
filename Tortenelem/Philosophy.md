@@ -12,3 +12,13 @@
 * We can know things by experiencing them
 * We can also know things by thinking [^2]
 [^2]: NO SHIT SHERLOCK
+## Aristotle
+* Was a scientist essentially
+* Though about philosophy, politics, biology, literature, logic
+* Established silhuettism:
+* * Humans are mortal
+* * Aristotle is human
+* * Conclusion: Aristotle is mortal
+## Herodotos | "The father of history"
+* The first history writer
+## Alexander the great

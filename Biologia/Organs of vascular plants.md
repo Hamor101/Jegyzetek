@@ -55,4 +55,32 @@ Tasks: Anchoring the plant, absorbing water and dissolved minerals
 * 2.: pinnately compound
 **Types of leaves based on leaf veins**
 1. Netted (reticulated) veins: from the primary veins secondary veins diverge
-2. Parallel veins (párhuzamos erezet): veins go in paral
+2. Parallel veins (párhuzamos erezet): veins go in parallel with
+
+## Reproductive  organs
+* Objective: Survival of species
+* Water is not needed for the meeting of gametes in the case of gymnosperms and angiosperms
+* Only angiosperms have all of the reproductive organs, gymnosperms miss fruits\
+
+**Reproductive organs:**
+  1. Flowers
+  2. Seeds
+  3. Fruits
+  
+  ### The flower
+  * Sex organ of plants
+  * helps fertilization by attracting pollinators
+  * place of fertilizationprotects the ovule
+  * will be part of the fruit\
+  2 Types:\
+  1.Gymnosperms[^1]:
+  [^1]:Nyitvatermő
+  * * The carpels are open, seeds are partly protected
+  2. Angiosperms[^2]:
+  [^2]: Zárvatermő
+  * * Carpels are grown together and form the (closed) ovary = magház
+  * * They mainly have bisexual flowers
+  ### The seed
+  * Contains the embryo
+  * Protects it from desiccation
+  * Helps embryo wait for the optimal moment of germination

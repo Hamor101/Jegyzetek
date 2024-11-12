@@ -72,8 +72,8 @@ Tasks: Anchoring the plant, absorbing water and dissolved minerals
   * helps fertilization by attracting pollinators
   * place of fertilizationprotects the ovule
   * will be part of the fruit\
-  2 Types:\
-  1.Gymnosperms[^1]:
+  2 Types:
+  1. Gymnosperms[^1]:
   [^1]:Nyitvatermő
   * * The carpels are open, seeds are partly protected
   2. Angiosperms[^2]:
@@ -84,3 +84,22 @@ Tasks: Anchoring the plant, absorbing water and dissolved minerals
   * Contains the embryo
   * Protects it from desiccation
   * Helps embryo wait for the optimal moment of germination
+  ### Fruits
+  - Only angiosperms have fruits
+  - Tasks:
+  - 1. protect seed
+  - 2. help dispersion of seed
+  - They can be grouped in several ways:
+  - 1. By which part of the flower creates the fruit
+  -  - 1. True fruit[^3]:are mode only from the ovary e.g: grape
+  -  - 2. False fruit[^4]: made from the ovary and other parts e.g: apple
+  -  2. By water content:
+  -  - 1. Fleshy fruits (húsos termés)
+  -  - - high water content, juicy
+  -  - - berry fruit (bogyós termés)
+  -  - - drupe fruits (csonthéjas)
+  -  - 2. Dry fruits (száraz termés) the fruit wall loses wate rcontent
+  -  -  - legume (hüvelyes)
+  -  -  - capsule (tok)
+[^3]:valódi termés
+[^4]:áltermés

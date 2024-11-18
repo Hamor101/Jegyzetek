@@ -13,7 +13,7 @@
 - **Broad**, Gently sloping
     - **Fluid** lava spreads out over a larger area
 - E.g: Mauna Loa, Hawaii
-## `Statovolcanoes`
+## `Stratovolcanoes`
 - **Explosive and effusive**
 - **Viscous** lava and pyroclasts[^1]
 - **Steep**, often symmetrical

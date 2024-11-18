@@ -1,3 +1,4 @@
+<font color=#a0d0f6>
 <span style = "font-family:'cascadia code'">
 
 # Volcanoes
@@ -7,17 +8,17 @@
     - Built from **multiple eruptions**
 - Eruptions can be **explosive, effusive or both**
 
-
 ## `Shield volcanoes`
 - **Effusive** eruptions
 - **Broad**, Gently sloping
     - **Fluid** lava spreads out over a larger area
 - E.g: Mauna Loa, Hawaii
-## `Stratovolcanoes`
+## `Statovolcanoes`
 - **Explosive and effusive**
 - **Viscous** lava and pyroclasts[^1]
 - **Steep**, often symmetrical
 - E.g: Mount St. Helens
+
 [^1]: fragments ejected during explosive eruption
 
 
@@ -49,3 +50,5 @@
   - Magma coming directly from the astenosphere
   - These create linear volcanoes
 </span>
+
+</font>

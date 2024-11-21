@@ -82,7 +82,7 @@
     - Chemical energy --> mechanical work
     - Can change length:
       -  Contraction
-      -  Relaxtaion
+      -  Relaxtaion\
     3 types:
       - Skeletal / striated
       - Smooth

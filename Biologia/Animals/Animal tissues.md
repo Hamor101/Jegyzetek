@@ -26,9 +26,10 @@
      - Single layer (e.g capillaries)
      - Compounds / stratified (e.g epidermis)
   3. `Keratinized / non-keratinized`[^1] 
-[^1]: Elszarusodott
      - Keratinized: protects against dessication
      - non-keratinized: allows for skin breathing
+[^1]: Elszarusodott
+
 ## `Connective tissue`
  - **Large amount of intercellular space** with fibers
  - Cells embedded in **extracellular matrix**, secreted by cells

@@ -83,7 +83,7 @@
     - Can change length:
       -  Contraction
       -  Relaxtaion\
-    3 types:
+3 types:
       - Skeletal / striated
       - Smooth
       - Cardiac

@@ -63,6 +63,8 @@
     ### `Adipose tissue`
     - Fat
     - Cells are filled with lipid[^2]
+    [^2]: Stored food
+
     - Used for:
       - Insulation
       - Mechanical protection
@@ -78,16 +80,59 @@
          [^4]: Fehérvérsejt 
          - Thrombocytes / platelets --> Coagulation[^5]
          [^5]: Vérlemezkék
-    ### `Muscular tissue`
-    - Chemical energy --> mechanical work
-    - Can change length:
-      -  Contraction
-      -  Relaxtaion\
-    - `3 types:`
-      - Skeletal / striated
-      - Smooth
-      - Cardiac
-    [^2]: Stored food
+## `Muscular tissue`
+  - Chemical energy --> mechanical work
+  - Can change length:
+    -  Contraction
+    -  Relaxtaion\
+  - `3 types:`
+    - Skeletal / striated
+    - Smooth
+    - Cardiac
+  ### `Skeletal (striated) muscle`
+  - Moves the body
+  - Attached to bones
+  - `Contraction:`
+     - Fast
+     - Strong
+     - Voluntary
+     - Exhaustible [^6]
+          [^6]: Fárdékony
+  ### `Smooth muscle`
+  - In the **walls of internal organs**
+    - **Spindle-shaped** cell
+    - `Contraction:`
+      - Involuntary
+      - Slow(er)
+      - Weak(er)
+      - Sustained[^7]
+          [^7]: Fáradékony
+  ### Cardiac muscle
+  - **Mix of smooth and striated** muscle
+  - Striated with **fibre junctions**
+  - Only **found in the heart**
+  - `Contraction:`
+    - Involuntary
+    - Fast
+    - Strong
+    - **Tireless**
+## `Nervous tissue`
+- Conducts **electrical impulses**
+- $98\%$ is found in the brain
+- `2 main types:`
+  - Neuron
+  - Neuroglia
+### `Neurons`
+- Transmit signals to eachother
+- `3 parts:`
+  1. Soma (sejttest)
+  2. Axon (Hosszú nyúlvány)
+  3. Dendrite (Rövid nyúlvány)
+### `Neuroglia`
+- Protect, feed, support neurons
+- Speeds up signal transmission
+        
+
 
 </span>
 </font>

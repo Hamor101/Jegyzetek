@@ -44,11 +44,47 @@
 - Conduit
 - Bedrock
 - Magma chamber
+
 ## `Where do volcanoes form?`
-- Around Convergent plate boundaries
-- Also divergent boundaries
-  - Magma coming directly from the astenosphere
-  - These create linear volcanoes
+- `Divergent boundaries`
+  - Magma from **astenosphere**
+  - **linear volcanoes**
+  - Basalt lava is very fluid, spreads out on dry land
+  - Basalt lava is very hot (1100-1200 °C)
+- Rich in metals, less SiO<sub>2</sub>
+- `Convergent Boundaries`
+  - Stratovolcanoes
+  - Viscous magma
+  - Magma is cooler
+  - More SiO<sub>2</sub>, less metallic
+  - Lighter coloured rocks
+- `Hot spot volcanoes`
+  - No plate boundaries
+  - Occurs at **mantle plumes**[^3]
+  - mantle plumes melt the crust --> Volcano is created
+  - Plate above mantle plume moves --> Volcano becomes **inactive**
+[^3]: Mantle plumes (Köpenycsóvák) are spots of hot material moving up from the mantle
+
+## `Post volcanic activity`
+- Around volcanic areas
+- Caused by **heat, water, chemicals**
+
+### `Examples:`
+- `Fumaroles:`
+  - Steam eruption
+  - Various solutes[^4]
+  - $200-900°C$
+- `Solfatara`:
+  - Sulfuric vapor
+  - $200-400°C$
+[^4]: Oldott anyagok
+- `Mofetta:`
+  - CO<sub>2</sub> vapor
+  - $>100°C$
+- `Geysers:`
+  - **Periodic** eruption
+  - Hot water
+
 </span>
 
 </font>

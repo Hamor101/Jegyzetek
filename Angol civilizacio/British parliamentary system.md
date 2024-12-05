@@ -7,7 +7,7 @@
 * +1 The monarch (King/queen)
 ##
 ## 1216 CE/AD
-* King John I.[^1]
+* King John II.[^1]
 [^1]: Földnélküli János
 
 Two political and artistic directoins at the time:

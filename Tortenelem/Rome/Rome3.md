@@ -20,7 +20,7 @@
 - Carthage had advanced navy, but romans reverse engineered their ships
 - Rome took islands of **Sicily**, **Sardinia** and **Corsica** and made them into provinces
 - Sicilians wanted to keep their government, but the romans installed a **governor**
-- Conquered territories were taxed
+- Conquered territories were taxes
 
 |x|Italian penninsula|Sicily|
 |----|----|----|

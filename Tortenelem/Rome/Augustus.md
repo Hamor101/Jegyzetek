@@ -14,7 +14,6 @@
 
 ## His rule
 - 27 BCE - 14 CE/AD
-- 
 
 Task 1:\
     1. _Consul_\
@@ -38,4 +37,10 @@ Task 1:\
 |Collapse of the triumvirate|Lepidus forced to resign|
 |Division of the empire|Octavian gets the western half including Rome/Hispania and Mark Antony gets the eastern half including Egypt|
 |Battle of Actium 49BCE|Octavian defeats Mark Antony|
-
+## 
+- He created a civil service (government offices)
+- Republican offices still existed
+- He created a new system: The principate
+- Handed out free grain (Parem et circenses)
+- Large scale construction --> prosperity
+- Ordered a census

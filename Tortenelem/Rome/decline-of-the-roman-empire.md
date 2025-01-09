@@ -20,11 +20,11 @@
 
 |Peopels|Barbarians/nomadic|Civilised/romans|
 |-----|-----|-----|
-|Way of life|Didn't settle, kept migrating||
-|Source of livelihood|Nomadic animal breeding. Kept horses and cattle||
-|Lived in tribes|||
-|They were led by tribal leaders|||
-|Mostly oral, based on traditions|||
+|Way of life|Didn't settle, kept migrating|Lived in settlements|
+|Source of livelihood|Nomadic animal breeding. Kept horses and cattle|Agriculture, trade, industry|
+|Political structure|Lived in tribes|Provinces|
+|Political structure|They were led by tribal leaders|Had a gorvernment with emperors|
+|Culture|Mostly oral, based on traditions|Written|
 
 </span>
 

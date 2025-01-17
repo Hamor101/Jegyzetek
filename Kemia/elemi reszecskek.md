@@ -45,19 +45,30 @@
 |Nagy-Nagy|Kovalens|
 
 
-### Gyakorlo feladat
+## `Elnevezes`
+- Kationoknál : az "ion" szó kerül a szó után (pl. kalcium ion)
+- Anionoknál : "-id" suffix (pl. Klor**id** (ion))
+
+
+## `Gyakorlo feladat`
 <sup></sup>
 <sub></sub>
+
+
 
 - Ca<sup>2+</sup> | Kation
 - Po<sub>4</sub><sup>3-</sup> --> Foszfat ion | Anion
 - K<sup>+</sup> | Kation
 - S<sup>2-</sup> | Anion
-- CO<sub>3</sub><sup>2-</sup> | Kation
+- CO<sub>3</sub><sup>2-</sup> --> Karbonat ion | Anion
+- Na<sup>+</sup> --> Nitrat ion | Anion
 - Cl<sup>-</sup> | Anion
+#### Kepletek
 - Ca<sup>2+</sup> + 2Cl<sup>-</sup> --> CaCl<sub>2</sub> [^2]
 - 3K<sup>+</sup> + Po<sub>4</sub><sup>3-</sup> --> K<sub>3</sub>PO<sub>4</sub>
+- Ca<sup>2+</sup>(PO<sub>4</sub>)<sub>2</sub>
 
 [^2]: A kepletben a pozitiv toltesu iont irjuk elobb
+ 
 
 </span>

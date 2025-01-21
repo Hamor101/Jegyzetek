@@ -240,7 +240,68 @@
         - Ducks, pheasants, bustard etc.
 
 ### `Mammals`
-
+- Endothermic true terrestrial vertebrates
+- For insulation they have adipose tissue and hair
+- All of them have mammary glands
+- Endoskeleton: Depends on lifestyle
+- Limbs can be modified:
+  - Jumping hindlimbs (e.g kangaoos, rabbits)
+  - Digging forelimbs (e.g moles, anteaters)
+  - Wings from forelimbs (e.g bats)
+- `Circulation`
+  - 4 chambered heart with full ridge, systemic/pulmonary bloodstreams
+- `Nutrition:`
+  - `Teeth:`
+    - incisors = metszőfogak
+    - canine = szemfogak
+    - molaris = őrlőfogak
+    - Herbivores: incisors grow continuously, no canine teeth, wrinkled strong and flat molaris to grind plants
+    - Carnivores: small and sharp incisors, big canine teeth, crested molaris to tear flesh
+    - Ominvores: flat incisors, medium/big canine teeth, tuberous molaris to grind plants/flesh
+    - Insectivores: have almost the same sized teeth because of kitinous exoskeletons of bugs
+  - `Parts of digestive system:` 
+    - foregut:
+      - oral cavity
+      - pharynx
+      - esophagus
+      - stomach
+    - Midgut:
+      - small intestine
+      - liver
+      - pancreas
+    - Hindgut:
+      - Caecum
+      - colon/large intestine
+      - rectum
+      - anus
+- `Respiration:`
+  - Highly branched lungs
+  - One-layered epithelium
+  - alveoli = legholyagocskak
+  - capillaries in the epithelium --> gas can move between lungs and bloodstream
+- `Sensory organs:`
+  - Development depends on lifestyle
+  - Best smelling/tasting among vertebrates
+  - Extra senses:
+    - Echolocation (bats/whales dolphins)
+- `reproduction:`
+  - All of them hae internal fertilization
+  - viviparous (except 4 species)
+  - females nurse offspring with milk, secreted by mammary glands
+  - mating happens through the vagina
+  - fertilization happens in the oviduct
+  - zygote is embedded into the endometrium
+  - species that belong to Eutheria[^8] have placenta
+  - During gestation the fetus gets O<sub>2</sub> and nutrients from the mother's blood, gets rid of CO<sub>2</sub> and waste products through the placenta
+  - Gestation period varies from species to species (bigger baby --> longer gestation)
+[^8]:Méhlepényes emlősök
+- `Groups:`
+  - Prototheria -> tojásrakó emlősök
+    - fur, cloaca, soft shelled eggs, pouch
+    - Habitats: Australia, New Guinea
+  - Marsupialia --> erszényes emlősök
+    - Offspring ar born  in a very undeveloped state
+    - Offspring crawl into the puch and attach themselves to a nipple
 
 
 </span>

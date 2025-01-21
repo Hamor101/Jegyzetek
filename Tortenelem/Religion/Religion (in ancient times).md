@@ -3,7 +3,3 @@
 |Polytheist|Monotheist|
 |-----|-----|
 |Egyptian, Greek, Roman|Christianity, Islam, Judaism|
-
-## `Religion in ancient Egypt`
-
-HW: 

@@ -10,7 +10,7 @@
 - Nincs töltése (ha van, akkor ion)
 
 - <sup>16</sup><sub>8</sub>O --> Az atom teljes felírása
-    - Felül: relatív atomtömeg (=protonszám + neutronszám)
+    - Felül: tömegszám (=protonszám + neutronszám)
     - Alul: Rendszám (=protonszám) [^1]
 - Gyakorló feladat: Mf. 8. O.
 1. Feladat:

@@ -299,9 +299,17 @@
   - Prototheria -> tojásrakó emlősök
     - fur, cloaca, soft shelled eggs, pouch
     - Habitats: Australia, New Guinea
+  - 4 Species:
+    - platypus and 3 echidna
+
   - Marsupialia --> erszényes emlősök
     - Offspring ar born  in a very undeveloped state
-    - Offspring crawl into the puch and attach themselves to a nipple
+    - Offspring crawl into the pouch and attach themselves to a nipple
+  - Eutheris --> Méhlepényes emlősök
+    - Offspring develop in uterus for a long time
+    - Offspring born in developed state[^9]
+    - They are the well known mammals
+[^9]:Some exceptions (e.g humans)
 
 
 </span>

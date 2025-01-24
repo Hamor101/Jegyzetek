@@ -50,6 +50,6 @@
 - eposzi kellékek, verselés (in medias res, deus ex machina)
 - Az utazás toposza:
   - Toposz: világirodalmon keresztül ívelő motívum
-- Fordította Devecseri Gábor
+- Fordította Devecseri Gábo
 
 </span>

@@ -29,10 +29,38 @@
 - Dann gehe ich zur Schule. Am Vormittag bin ich in der Schule und schreibe viel
 - Nach der Schule gehe ich nach Hause und ich esse zu Mittag
 - Am nachmittag mache ich meine Hausaufgaben
-- 
+
+
+
+### Feladat 3
+- Katja Meyer:
+  - Sie macht ihre hausaufgaben
+  - Sie geht  jobben
+
+
+### Feladat 4
+- Am samstag:
+  - Ich steht um 7:00 auf
+  - Ich wasche mich und zieht mich an
+  - Ich frühstücke nicht
+  - Ich gehe Programieren lernen
+  - Nach Programieren, gehe ich nach Hause
+  - Ich schlafe
+  
+- Am sonntag
+  - Sie lerne im morgen
+  - Treffe mit ihre Freundin
+  - Sie spielt Flöte
+- Am samstag
+  - Sie lernt viel
+  - Nach dem Mittagessen sie ist Ruhig
+  - Sie spielt Flöte
+
 
 ## `Vocab`
 - r Tagesablauf -- Napirend
 - sich waschen -- mosakodni
 - sich an|ziehen -- felöltözni
-- 
+- r Handy -- Mobiltelefon
+- s Geld -- Pénz
+- r Führerschein -- Jogosítvány

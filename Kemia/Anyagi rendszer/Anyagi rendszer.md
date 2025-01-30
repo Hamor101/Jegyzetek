@@ -51,7 +51,7 @@
 - Alakuk állandó, rácspontok nem mozdulnak el
 - Térfogatuk állandó - nem összenyomhatóak
 - Külső erővel szemben ellenállást mutatnak
-
+n 
 - Csoportok:
   - Amorf ("Alaktalan"):
     - Részecskék elhelyezkedése rendezetlen (kis távon lehet rendezett)

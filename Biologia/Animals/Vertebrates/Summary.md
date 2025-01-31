@@ -39,6 +39,8 @@
     |-----|-----|-----|-----|
     |Frogs|water|In water|X|
     |Salamanders|inside the female's body|Moist environment|$\checkmark$|
+  
+
 - Why are reptiles true terrestrial animals:
   - Internal fertilization --> can protect offspring from dessication
   - Branched lungs
@@ -57,3 +59,67 @@
   - They move with intercostal muscles
   - Predators (kill with venom or choking)
   - Jacobson organ + pit organ 
+  - Kills with  venom or constriction (choking)
+
+- What is needed for endothermic animals
+  - Thermoregulatory center
+  - Well developed circulatory/respiratory system
+  - More food
+
+- Why do birds have the most developed respiration?
+  - They have double respiration with air sacs
+  - When air comes back from the air sacs, gas exchange happens again
+
+- Reproduction of Aves
+  - Internal fertilization (through the cloaca, in the oviduct)
+  - Oviparous
+  - Walls of oviduct makes the layers of the eggs
+  - They incubate --> Calcerous egg
+  - Chick can be precocial or altricial
+
+- Compare precocial and altritial
+  - Altritial:
+    - Undeveloped state when hatching
+    - blind
+    - cannot feed themselves
+    - ugly af
+  - Precocial:
+    - well developed at hatching
+    - can see
+    - can follow their parents
+    - They have feathers
+
+- Compare mammals based on incisors:
+  - Herbivores: Massive, big incisors
+  - Carnivores: Sharp, Small
+  - Omnivores: flat, medium sized
+
+- Compare mammals based on molars:
+  - Herbivores: Wrinkled (redős)
+  - Carnivores: Crested (tarajos)
+  - Omnivores: Tuberous (gumós)
+
+- Explain echolocation
+  - Example bats
+  - They create ultrasound in the throat, which bounces off objects, their brain creates an image from the returnign sound
+
+
+- Name organs of mammals:
+  - Female mating organ: Vagina
+  - Pllace of fertilization: 
+  - Place of implantation: Endometrium
+
+- Task of placenta:
+  - Fetus gets oxygen and nutrients from mother's blood through the placenta
+  - Also removes waste products from the fetus
+  
+- Prototheria
+  - Exceptional, because they have cloaca and eggs
+  - They also have mammary glands (but no nipple)
+  - Example: Platypus 
+  - They live in new guinea
+
+- Marsupialia:
+  - offspring develop in uterus
+  - After this they climb into the pouch
+  - Habitat: Central australia and south america

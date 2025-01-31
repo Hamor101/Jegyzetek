@@ -1,0 +1,12 @@
+# Ethology
+- The study of the behaviour of animals
+- Studies can be done in laboratories or natural environments
+- Animal behaviour is complex
+  - They have evolutionary reasons
+- Ethology needs a lot of information from backgrounds:
+  - Genetics
+  - Neuroanatomy
+  - Biochemistry
+  - Ecology
+- Overall animal behaviour cannot be examined, so it is divided into action patterns
+- There are innate and learned behaviours

@@ -6,11 +6,11 @@
 
 ## Elvalasztos ige
 - Aufstehen --> Auf|stehen
-- Wann steht er auf?
+- Wann _[steht]_ er _[auf]_?
 - Er steht um 8 auf
 ###
 -  Fernsehen --> Fern|sehen
--  Wann sehen er die Fern
+-  Wann _[sehen]_ er die _[Fern]_
 -  Er sieht Fern
 ### 
 - Anziehen

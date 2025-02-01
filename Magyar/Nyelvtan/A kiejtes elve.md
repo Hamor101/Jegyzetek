@@ -27,7 +27,7 @@
 
     |Kéz|Kézi|Kézben|Kezes|Kezek|
     |-----|-----|-----|-----|-----|
-    |Tűr|Tűzi(játék)|Tűzben|Tüzes|Tüzek|
+    |Tűz|Tűzi(játék)|Tűzben|Tüzes|Tüzek|
     |Víz|Vízi|Vízben|Vizes|Vizek|
     ||||||
 

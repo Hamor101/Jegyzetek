@@ -44,7 +44,7 @@
 ##
 ## Szilárd anyagok / halmazállapotok
 
-|Vonzóerők|Részecskék helye/mozgása|Alak|Térfogat|Külső erővel szembeni ellenállás|
+
 
 - A részecskék közötti vonzóerők nagyok
 - A részecskék adott helyen csak rezgő mozgást végeznek

@@ -18,9 +18,9 @@
     |Ostheichthyes|Scales|yes|yes|external|
 
 - Ostheichthyes circulation respiration reproduction:
-  - Circulation: 1 atria, 1 ventricle
+  - Circulation: 1 atria, 1 ventricle, one bloodstream
   - Respiration: Gills with operculum
-  
+  - Reproduction: External fertilization, gametes meet in water
 
 - Why are amphibians partly terrestrial:
   - Need water for reproduction
@@ -34,7 +34,7 @@
     |x|Amphibians|Reptiles|Aves/mammals|
     |-----|-----|-----|-----|
     |Chambers number|3|4 (no full ridge)|4 chambers (full ridge)|
-    |Chamber types|2 atria, 1 ventricle|...|...| 
+    |Chamber types|2 atria, 1 ventricle|2 atria 2 ventricles|2 atria 2 ventricles| 
 
 - Compare reproduction of frogs and salamanders
     |x|Place of fertilization|zygote environment|tadpoles|

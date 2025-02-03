@@ -18,7 +18,9 @@
     |Ostheichthyes|Scales|yes|yes|external|
 
 - Ostheichthyes circulation respiration reproduction:
-  - ...
+  - Circulation: 1 atria, 1 ventricle
+  - Respiration: Gills with operculum
+  
 
 - Why are amphibians partly terrestrial:
   - Need water for reproduction

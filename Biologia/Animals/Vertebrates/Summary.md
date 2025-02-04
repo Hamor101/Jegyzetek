@@ -39,8 +39,8 @@
 - Compare reproduction of frogs and salamanders
     |x|Place of fertilization|zygote environment|tadpoles|
     |-----|-----|-----|-----|
-    |Frogs|water|In water|X|
-    |Salamanders|inside the female's body|Moist environment|$\checkmark$|
+    |Frogs|water|In water|$\checkmarmk$|
+    |Salamanders|inside the female's body|Moist environment|X|
   
 
 - Why are reptiles true terrestrial animals:

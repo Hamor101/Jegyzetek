@@ -30,6 +30,14 @@
 - Holy book is the Bible
 - Jesus Christ: The messiah/redeemer
 
+## Feladat 1
 
+
+-
+- Heretic
+- Dogma
+- Holy trinity
+- bishop
+- Catholic
 
 </span>

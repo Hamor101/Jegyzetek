@@ -1,3 +1,6 @@
+<span style = "font-family:'cascadia code'">
+<font color=#c0c0ff>
+
 # Surface shaping external forces
 
 ## External forces
@@ -22,8 +25,11 @@
 - `2 types:`
   - Physical
   - Chemical
+  - Biological -- The roots of plants break apart rocks
+[^1]: Legjobb magyar fordítás: Kőzetmegbontás
 
-### Physical weathering -- Aprózódás
+
+### `Physical weathering -- Aprózódás`
 - Not only mechanical changes
 - Only the particle size of the rock changes
 - The chemical composition reamins the same
@@ -36,5 +42,29 @@
         - Water freezes
         - Water expands when frozen (by 9%) --> cracks get bigger
 
+### `Chemical weathering -- Málás`
+- Chemical reactions change the internal structure of rocks
+- Slowly destroys rocks
+- Most typical chemical weathering in nature:
+  - Limestone being destroyed by rain
+  - Limestone --> CaCO<sub>3</sub>
+  - Rainwater has a pH of 5.5 --> it's slightly acidic[^2]
+  - Because of this, limestone dissolves in rainwater
+- Creates **kartsic forms:**
+  - sinkholes, dolinas, caves
+- Flora can also cause chemical weatering:
+  - Roots can create weak acids
+  - Lichen can also create acids
+- E.g Oxidation
+[^2]: CO<sub>2</sub> gets into rainwater, becomes H<sub>2</sub>CO<sub>3</sub> (carbonic acid)
 
-[^1]: Legjobb magyar fordítás: Kőzetmegbontás
+
+### `Factors effecting the rate of weathering`
+- Type of rock --> sedimentary > igneous/metamorphic
+- Temperature --> high > low
+- Total annual precipitation --> high > low
+#
+- Deep, fast weathering happens around equatorial belt / monsoon zone
+
+
+

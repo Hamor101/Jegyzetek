@@ -39,7 +39,7 @@
 - Compare reproduction of frogs and salamanders
     |x|Place of fertilization|zygote environment|tadpoles|
     |-----|-----|-----|-----|
-    |Frogs|water|In water|$\checkmarmk$|
+    |Frogs|water|In water|$\checkmark$|
     |Salamanders|inside the female's body|Moist environment|X|
   
 

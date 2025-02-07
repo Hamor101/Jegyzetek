@@ -19,7 +19,7 @@
 - `Legfontosabb műfajok`
   - _Elégia_ -- Akkoriban minden hosszab disztichonban írt verset így hívtak
     - Pl.: Türtaiosz: Szép a halál...
-  - _Epigramma_ -- A öööööööööööö disztichonos versek neve sokszor csattanóra végződik
+  - _Epigramma_ -- A rövid disztichonos versek neve; sokszor csattanóra végződik
     - Rövid, tömör
     - Gyakran csattanóra végződik/ ellentét van benne
     - Korai epigrammák komoly témájúak voltak
@@ -39,7 +39,19 @@
   - Az erényért, az erkölcsös, tisztességes életet hirdeti
  
 #
-  - ```"Szép a halál, ha az első sorban harcol a férfi bátran, s ott esik el védve hazája rögét."``` 
+```
+"Szép a halál, ha az első sorban harcol a férfi bátran, s ott esik el védve hazája rögét."
+``` 
+
+## `Szimonidész: A thermopülai hősök sírfelirata`
+
+```
+Itt fekszünk vándor, vidd hírül a spártaiaknak,
+Megcselekedtük, amit megkövetelt a haza
+```
+- Egy történelmi helytállást idéz a vers
+- Különleges, hogy a lírai alany szerepében a halottak annak
+
 
 [^1]: Jelentése: 'Két sor'
 

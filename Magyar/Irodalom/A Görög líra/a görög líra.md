@@ -1,6 +1,4 @@
 <span style="font-family:'cascadia code'">
-<font color=#c0c0ff>
-
 # A görög líra
 
 - Különbség a líra és az epika között:
@@ -38,6 +36,7 @@
   - Filozófus
   - Költő
   - Ő írta a "Két féle ember" c. epigrammát
+  - Az erényért, az erkölcsös, tisztességes életet hirdeti
  
 #
   - ```"Szép a halál, ha az első sorban harcol a férfi bátran, s ott esik el védve hazája rögét."``` 

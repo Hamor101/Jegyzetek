@@ -1,0 +1,54 @@
+<span style="font-family:'cascadia code'">
+
+# <span style="color:#fabd2f"> Earth's history
+- Age of Earth: `4.6 Billion yrs` (=4600 m.y)
+- Divided into four `large eras`:
+  - [Precambrian era](#precambrian-era) -- Ősidő
+  - [Paleozoic era](#paleozoic-era) -- Óidő
+  - [Mesozoic era](#mesozoic-era) -- Középidő
+  - [Cenozoic era](#cenozoic-era) -- Újidő
+
+
+# <span style="color:#fabd2f"> Methods of dating
+- Two kinds of dating:
+  - Relative dating
+  - Absolute dating (aka radiometric dating)
+### Relative dating (sweet home alabama)
+- Born in the `early 19th century`:
+  - Birth of `geology`
+  - Birth of `paleontology`
+    - Study of `fossils`[^1]
+- Relative dating can determine the age of a rock relative to another
+- `3 main rules:`
+  - The deeper the rock is, the older it is
+  - Rock layers containing similar fossils are about the same age
+  - The younger the rock, the more developed to fossils in it
+
+[^1]: Remain or impression of any formerly living animal or plant preserved by natural causes in rocks
+
+### Absolute dating
+- Based on `decay` of `radioactive isotopes`
+- When using `carbon-14`:
+  - <sup>14</sup>C --> <sup>14</sup>N
+  - The half-life of <sup>14</sup>C: $\lambda = \plusmn ­5700 yrs$
+- When using Uranium-235:
+  - <sup>235</sup>U --> <sup>207</sup>Pb
+  - Half life: $\lambda = 71\space000\space000yrs$
+
+# <span style="color:#fabd2f">Precambrian era
+### `4600-542 m.y.a`
+- Little is known about this era
+- Four large `mountain formations`:
+  - They became `ancient shields/massifs`
+- `Reducing` atmosphere:
+  - No oxygen
+  - CH<sub>4</sub>, NH<sub>3</sub>, H<sub>2</sub>S were common
+- `First lifeforms` appeared at this time ~ 2.5 b.y.a
+  - Blue bacteria -- `Cyanobacteria`
+    - Autotrophic, unicellular prokaryotes
+
+# <span style="color:#fabd2f">Paleozoic era
+
+# <span style="color:#fabd2f">Mesozoic era
+
+# <span style="color:#fabd2f">Cenozoic era

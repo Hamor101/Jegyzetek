@@ -1,8 +1,7 @@
 <span style="font-family:'cascadia code'">
-<font color=#c1c1f2>
 
-# Anyagi rendszer
-# Bevezeto
+# <span style="color:#fabd2f">Anyagi rendszer
+# <span style="color:#fabd2f">Bevezeto
 - __Rendszer__: <mark>Az a pontosan korulhatarolt resz amely szamunkra fontos vagy erdekes</mark>
 - __Kornyezet__: <mark>Az a rendszeren kivuli resz ami hatassal van a rendszerre</mark>
 ### Rendszerek csoportositasa:

@@ -1,3 +1,5 @@
+<span style="font-family:'cascadia code'">
+
 # Islam (!!!MAKACHEV!!!)
 
 - Holy book is the **Quran**
@@ -35,3 +37,14 @@
 
 
 [^1]:![wfhweuf](https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/The-Kaaba.jpg?itok=z0TUFz8D)
+
+## `Spread of Islam`
+-  Power vacuum in the region
+-  Conquered tribes were offered a choice between converting to islam or paying tributes
+-  Strong, fierce military
+-  Muslim empire reached a large size (Spain-India)
+-  Under the last kaliphate, science, art and philosophy flourished
+-  The empire was eventually fragmented into smaller dynasties
+## `Shia-Sunni divide`
+- Shias only accepted Ali and his descendants
+- Sunnis accepted the other caliphates too

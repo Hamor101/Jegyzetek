@@ -48,6 +48,8 @@
     - Autotrophic, unicellular prokaryotes
 
 # <span style="color:#fabd2f">Paleozoic era
+### `542-250 m.y.a`
+- 
 
 # <span style="color:#fabd2f">Mesozoic era
 

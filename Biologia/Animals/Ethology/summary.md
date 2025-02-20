@@ -117,17 +117,17 @@
  |Energy investment|Creation of gametes|Raising of offspring| 
 
 - Which animals invest the most in parental care and how:
-- Mammals, birds
-- Mammals
-  - Invest in milk
-  - Gestation
+  - Mammals, birds
+    - Mammals
+      - Invest in milk
+      - Gestation
 - Birds 
   - Invest energy in raising chicks
 - Relationship types and characteristics:
-- Periodic monogamy:
-  - Animals are monogamous but only for one breeding season
-- Lifelong monogamy:
-  - Animals chose partner for life 
-- Polygamy:
-  - Mainly in herbivores
-  - Low energy needed to feed adults and offspring --> no requirement for two parents
+  - Periodic monogamy:
+    - Animals are monogamous but only for one breeding season
+  - Lifelong monogamy:
+    - Animals chose partner for life 
+  - Polygamy:
+    - Mainly in herbivores
+    - Low energy needed to feed adults and offspring --> no requirement for two parents

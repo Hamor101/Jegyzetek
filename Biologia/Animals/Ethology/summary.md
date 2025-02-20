@@ -121,8 +121,8 @@
     - Mammals
       - Invest in milk
       - Gestation
-- Birds 
-  - Invest energy in raising chicks
+  - Birds 
+    - Invest energy in raising chicks
 - Relationship types and characteristics:
   - Periodic monogamy:
     - Animals are monogamous but only for one breeding season

@@ -62,3 +62,22 @@
 - `Több is lehet` egy szóban
 - A szótő és a képző után
 - `Jele:` 3
+
+## <span style="color:#fabd2f">Ragok
+- Igei személyragok -k, -m, -l, -sz
+- Főnévi igenév személyragjai -om/od/, -a/e
+- Tárgy ragja: -t pl. almát
+- Birtokos jelző ragja: -nak/nek
+- határozóragok: -ban/ben, -ról/ről
+
+## <span style="color:#fabd2f">Toldalékok kapcsolódási sorrendje
+- szótő/szótővek + képző(k) + jel(ek) + rag
+- leg|vidám|abb|an
+- 3+1+3+4
+- az|ok|ért
+- 1 + 2 + 4
+- Húg|ocská|m|nak
+- 1 + 2 + 3 + 4
+
+- Jel|ent|és|árny|al|at|tal
+- 1 + 2 + 2 + 1 + 2 + 2 + 4

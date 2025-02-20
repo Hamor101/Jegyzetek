@@ -1,5 +1,4 @@
 <span style="font-family:'cascadia code'">
-<font color=#cacaff>
 
 # Media
 - Three types:

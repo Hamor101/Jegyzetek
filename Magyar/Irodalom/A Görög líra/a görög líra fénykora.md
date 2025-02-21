@@ -38,3 +38,15 @@
     - |-U| |-U| |--U| |-U|  |-U|
   - 1 adóniszi  sor
 [^1]: Epikum: Amikor a lírai mű🅱️en van egy kevés történetmesélés
+## <span style = "color:#fabd2f">Anakreón
+- Későbbi költő
+- Főleg Szamosz szigetén és Athénban élt
+- Témái:
+  - Élet élvezete
+  - Szerelem
+  - Bor
+  - Öregség
+### <span style="color:#fabd2f">Töredék a halálról
+- Téma: Öregség/Halál
+- Hangulat: Elégikus
+- Verselése: _ionicus a minore_ (UU--)

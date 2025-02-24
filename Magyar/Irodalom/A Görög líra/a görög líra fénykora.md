@@ -11,6 +11,7 @@
 - _Óda:_ Ünnepélyes, emelkedett témájú, stílusú
 - _Himnusz:_ Istenséget megszólító
 - _Dal:_ Könnyen énekelhető, versszakokra osztott költemény, amely egyetlen érzés/gondolat 
+- _Epigramma:_ Tömör, bölcsességet közlő mű
 
 
 
@@ -23,7 +24,7 @@
 - Görögök, Rómaiak szívesen imitálták
 
 
-## <span style="color:#fa🅱️d2f"> Szapphó - Aphroditéhez
+## <span style="color:#fabd2f">Szapphó - Aphroditéhez
 - Téma: Szerelmi vágy
 - Műfaj: himnusz
 - Felépítés: keretes szerkezet
@@ -50,3 +51,14 @@
 - Téma: Öregség/Halál
 - Hangulat: Elégikus
 - Verselése: _ionicus a minore_ (UU--)
+
+### <span style="color:#fabd2f">Gyűlölöm
+- MEMORITER (!!)
+- `Gyűlölöm, azt aki telt kupa mellett,bort iszogatván,
+háborút emleget és lélekölő viadalt.
+S kedvelem azt, aki bölcs és Aphrodité meg a Múzsák
+szép adományairól zengve szeretni tanít.`
+
+- `Ellentéten` alapul
+  - \- Háború
+  - \+ bölcsesség, szeretet, művészet

@@ -23,6 +23,12 @@ einkfauen --> hat ei`ge`kauft
 - wer hat den Weinachtsbaum dekoriert?
 
 
+- Ich habe Goulash gegessen
+- Wir habe ---
+- Meine Mutter hat Bolognese gekocht
+- Meine Mutter, mein Vater und ich
+
+
 ## `Vocab`
 - besuchen - látogatni
 - dekorieren - díszíteni
@@ -33,3 +39,18 @@ einkfauen --> hat ei`ge`kauft
 - essen - enni
 - trinken - inni
 - backen - sütni (=bake)
+#
+- mit|bringen
+- essen
+- fischen
+- suchen
+- zurück|bringen
+- vergehen
+- werfen
+- zerbrechen
+- verjagen
+- zurück|kommen
+- gehen
+- finden
+- lesen
+- an|sehen

@@ -49,15 +49,25 @@
 
 # <span style="color:#fabd2f">Paleozoic era
 ### `542-250 m.y.a`
+- 2 major mountain formations (orogenesis)
 ## Cambrian
-- Many new invertebrates (Porifery, cnidarians, worms, echinoderms) --> Cambrian explosion
+- Many new invertebrates (Porifera, cnidarians, worms, echinoderms) --> Cambrian explosion
 - Trilobites appeared
+## Ordovician
+- First vertebrates (armoured fish)
+- Low atmospheric O<sub>2</sub> --> No plants / land animals
+### Silurian
+- First terrestrial animals
+  - Scorpion-like arthropods
+- First terrestrial plants
+  - fern-like plants (in damp habitats close to water)
 
 # <span style="color:#fabd2f">Mesozoic era
 - 3 Periods:
   - Triassic
   - Jurassic
   - Cretaceous
+- Pangea was split in two by thetys (into Laurasia and Gondwana)
 ## <span style= "color:#fabd2f">Triassic
 - reptiles, dinosaurs became common
 - First `birds` and `mammals`
@@ -91,3 +101,29 @@
 - Mammals, birds increased in `numbers`, `Number of species`
 - Mammals, birds increased in `size`
 - Grassland appeared
+
+
+# <span style="color:#fabd2f">The  large structured units of continents
+## I. Ancient shields / Ancient massifs
+- Large, stable blocks of the Earth's crust
+- Original cores of continents
+- Precambrian rocks
+- Unaffected by mountain formations over large periods of time
+- These are:
+  - Baltic
+  - Angara
+  - Chinese
+  - Deccan
+  - Australian
+  - African
+  - Arabian
+  - Antarctic
+  - Brazil
+- 2 types of shield:
+  - Bare
+  - Covered
+## II. Block mountains
+- Height `< 2000m`
+- `Smooth`, `rounded` landforms
+- `Medium` mountains
+- 

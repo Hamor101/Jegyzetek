@@ -126,4 +126,27 @@
 - Height `< 2000m`
 - `Smooth`, `rounded` landforms
 - `Medium` mountains
-- 
+### Caledonian mountain system (members)
+- Scandinavian Mt.
+- Scotland
+- Northern part of irish island
+- Eastern greenland
+- Northern Appalachian Mt.
+### Variscan Mountain System (members)
+- Pennine (England)
+- Massif central (Fr.)
+- German medium Mt.
+  - Black forest
+  - Harz
+- Rim mountains of Bohemian basin
+- Velence hills
+- Rhodope (Bulgaria)
+- Ural mt.
+- Great Dividing range
+### Young folded mountains
+- Where? -- At plate boundaries
+- Av. height ~3000-4000m (--> 8000m)
+- folded landform
+- Sharp ridges
+  - Parallel ranges
+  - V/U-shaped

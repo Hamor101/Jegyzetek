@@ -81,3 +81,107 @@
 
 - Jel|ent|és|árny|al|at|tal
 - 1 + 2 + 2 + 1 + 2 + 2 + 4
+
+## Dolgozat javítása
+
+1.
+  - Ember|telen|ség|ük|kel
+  -   1 + 2 + 2 + 3 + 4
+2.
+  - Ép|ül|né|nek
+  - 1 + 2 + 3 + 4
+3.
+  - El|olvas|t|am
+  - 1 + 1 + 3 + 4
+
+
+## Helyesírás feladat
+- 1 --> nincs hosszú msh
+- 2 --> Van hosszú msh
+- x --> Ígyis/úgyis
+
+- Lesz - 1 ✓
+- Eggyé - 2 X
+- Bátyja - 1 ✓
+- Visszhang - 2 ✓
+- Parttalan/Partalan - x 2
+- Küld/Küldd - x ✓
+- Sarkkal / Sarkall - x ✓ 
+- Lőjj - 2 1
+- Tanítsd - 1 ✓
+- Látsszam - 2 ✓
+- Eddzd - 2 1
+- Briddzsel / Bridzsel - x ✓
+- Effajta - 2 ✓
+- Bölccsé - 2 X
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+- HAKUNA MATATA

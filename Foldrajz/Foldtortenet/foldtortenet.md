@@ -150,3 +150,14 @@
 - Sharp ridges
   - Parallel ranges
   - V/U-shaped
+### Eurasian (W --> E)
+- Atlas mt.
+- Pyrenees
+- Appennines
+- European alps
+- Carpathians
+- Dinaric alps
+- Balkan mts.
+- Caucasus
+- Rim mts. of Asia Minor
+- Himalayas

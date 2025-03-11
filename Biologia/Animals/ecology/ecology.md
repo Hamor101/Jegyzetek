@@ -35,7 +35,7 @@
     - Body temp
     - Orientation
     - Hibernation
-  - Groups of animals based on activity:
+  - `Groups of animals based on activity:`
     - Diurinal animals : active during daylight
     - Crepuscular animals : active during dawn and dusk
     - Nocturnal animals : Active during night
@@ -72,7 +72,7 @@
   - `Types of animals based on body temperature:`
     - Endothermic: Thermoregulatory center in brain, they can control body temperature, they also have insulation
     - Ectothermic: Body temperature depends on environment
-### `Water`
+### <span style="color:#fabd2f">Water
   - Essential for life
   - Requirement for biological processes
   - Conditions of water that can influence living organisms:
@@ -95,3 +95,29 @@
     - Humid habitat animals:
       - Need humidity in air
       - If air dries, they will hide
+    - Dry habitat animals:
+      - Can control/regulate water loss
+      - Have keratinized skin
+      - Denser urine
+      - dry faeces
+
+### <span style="color:#fabd2f">Soil
+- Earth's surface's `uppermost fertile layer`
+- Soil formation is a `long process`
+    1. Physical fragmentation happens with the bedrock (wind, rain, ice)
+    2. Chemical weathering: smaller fragments can undergo chemical reactions
+    3. Biological weathering: Transformations happen with rocks caused by metabolites of organisms
+- `Humus` is the `nutrient source` of plants  
+  - Made by `decomposer organisms`
+- `Soil characteristics:`
+  - Texture:
+    - Proportion of `solid components` and `gaps`
+    - `Calcerous soils` with humus are best
+    - `Saline` soils are the worst (too compact)
+  - Temperature & fluctuation:
+    - `Dark:` Absorbs more haet, low fluctuation, high capacity
+    - `Light:` High heat fluctuation, high capacity
+  - Soil pH:
+    - Depends on type of bedrock, climate, vegetation, soil organisms, season
+    - `Lower` pH: dissolved heavy metals, `bad for plants`
+    - Saline soils are highly alkaline

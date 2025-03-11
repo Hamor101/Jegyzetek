@@ -2,7 +2,7 @@
 
 # <span style="color:#fabd2f"> Ecology
 ## Abiotic environment factors
-- `Light:`
+### `Light:`
   - `Solar energy` of the Sun
   - Base of life
   - `Photosnthesis` uses light to create chemical energy
@@ -45,3 +45,53 @@
   - Earth's surface heats up the air
   - Greenhouse gases:
     - CO<sub>2</sub>, CH<sub>4</sub>, O<sub>3</sub>, NOx, H<sub>2</sub>O
+    - Growth in volume of these gases causes increase in temperature (greenhouse effect) --> Result is global warming
+  - Factors that influence the temperature of an area:
+    - Distance from the equator (Latitude)
+    - Distance from sea level (Altitude)
+    - Presence of water
+      - Water has a buffer effect
+      - It has higher thermal capacity (more time to change temp)
+    - Relief (e.g southern parts of hills are warmer)
+    - Soil type
+    - Water content in soil
+    - Vegetation
+  - `Temperature influences:`
+    - Metabolism
+    - Reproduction
+    - Enzymes
+      - They are only active at a given temperature
+      - (e.g in the winter the enzymes needed for photosynthesis are inactive)
+  - `Types of animals based on heat tolerance:`
+    - Thermophilic (melegkedvelő): Narrow tolerance for heat, live in tropical areas
+    - Temperate zone species: Broad tolerance for temperature
+      - They have solutions for warm and cold weather as well (fur, fat etc.)
+    - Cold loving species:
+      - Narrow tolerance
+      - Live in cold zones (taiga, polar regions)
+  - `Types of animals based on body temperature:`
+    - Endothermic: Thermoregulatory center in brain, they can control body temperature, they also have insulation
+    - Ectothermic: Body temperature depends on environment
+### `Water`
+  - Essential for life
+  - Requirement for biological processes
+  - Conditions of water that can influence living organisms:
+    - Density
+    - Salinity
+    - Temperature
+    - Dissolved gas content
+  - Water distribution is uneven arond the Earth
+  - 2 groups of plants based on water supply:
+    - poikilohydry (változó vízállapotú) -- Cannot regulate water loss, depend on the environment's water content (non-vascular plants belong here)
+    - homoihydry -- Can regulate evapotranspiration, can have waterproof cuticle on epidermis, can change surface area of leaves (vascular plants belong here)
+      - `Groups of homoihydry:`
+        - Aquatic : live in water, have undeveloped roots
+        - Marshland plants : intense water absorption and evapotranspiration
+        - "Medium water supplied" plants : can tolerate drought for a while by lowering evapotranspiration, but not forever
+        - Drought tolerant plants : long roots, small leaves, waxy cuticle
+  - Animals and water:
+    - Marine and freshwater species:
+      - Don't have to protect against dessication
+    - Humid habitat animals:
+      - Need humidity in air
+      - If air dries, they will hide

@@ -1,5 +1,5 @@
 # Viruses
-* No life phenomena $\rArr$ not living-beings
+* No life phenomena $\rarr$ not living-beings
 * No regulation or metabolism
 * Cannot reproduce w/o host cell
 * *"Non-living particles"*

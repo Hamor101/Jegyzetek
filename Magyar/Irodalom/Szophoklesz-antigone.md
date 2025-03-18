@@ -27,3 +27,8 @@ Antigoné <--> Kreón\
 |<span style="color:#ff6835">TETŐPONT (krízis)|A drámai feszültség csúcsa|Teiresziasz szörnyújóslatára Kerón meggondolja magát, de már késő|
 |<span style="color:#ff6835">VÉGKIFEJLET|A katasztrófa bekövetkezése|Antigoné, Haimón és a királyné öngyilkos lesz, Kreón összeroppan|
 
+### <span style="color:#fabd2f">A kar szerepe
+- Ebben a műben a thébai vének kara
+- A kar választja el egymástól a jeleneteket
+- A cselekményt magyarázzák, kommentálják
+- 

@@ -22,3 +22,9 @@
 - Gregory VII claimed `supremacy over secular rulers`
 - He also claimed that `only the pope` could `perform investiture`
   - This caused `conflict` with the Holy Roman Emperor
+
+## Investiture fight
+- Pope wins
+- Because:
+  - Power of the emperor declined --> princes gained more power
+  - 

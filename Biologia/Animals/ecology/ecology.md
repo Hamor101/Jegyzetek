@@ -121,3 +121,49 @@
     - Depends on type of bedrock, climate, vegetation, soil organisms, season
     - `Lower` pH: dissolved heavy metals, `bad for plants`
     - Saline soils are highly alkaline
+    - Nutrient & mineral content:
+      - Through plants it influences, as plants are the base of the food chain
+
+### <span style="color:#fabd2f">Air
+  - Chemical and physical characteristics of air are important for life
+  - 3 main parts:
+    - 78% N<sub>2</sub>
+    - 21% O<sub>2</sub>
+    - 0.04% CO<sub>2</sub>
+  - Also variable amounts of:
+    - CH<sub>4
+    - H<sub>2</sub>O
+    - CO
+    - NO<sub>2
+    - N<sub>2</sub>O
+    - SO<sub>2
+  - <span style="color:#ff6835">Nitrogen
+
+    - For most organisms, it's neutral
+    - Except for `nitrogen-fixing bacteria`
+    - These bacteria `live in the soil` or in `symbiosis` with plants
+    - Plants can use <span style="color:#ff6835">ammonia</span> to `build their proteins` and nucleic acid
+  - <span style="color:#ff6835">Oxygen
+    - Byproduct of `photosynthesis`
+    - Aerobic organisms `need it to get energy` (ATP)
+    - Used for `respiration`
+    - Starting material of `ozone production`
+    - UV rays `produce AND break down` ozone
+  - <span style="color:#ff6835">Carbon dioxide
+    - Essentially the `opposite role as oxygen`
+    - Level is `reduced by`:
+      - Photosynthesis
+      - Rock formation
+      - Absorption in water
+    - Level `increased by`:
+      - Respiration
+      - Degradative processes
+      - Combustion
+      - Volcanic activity
+  - <span style="color:#ff6835">Other important components
+    - Water vapor: influences weather, `evapotranspiration`
+    - Pollutants (bad ＞﹏＜)
+    - Dioxides
+  - Physical characteristics of the air
+    - Wind (air movement) --> balances temperature/moisture differences
+    - Blast/Air presure (légnyomás) Its fluctuation influences animals' life activities

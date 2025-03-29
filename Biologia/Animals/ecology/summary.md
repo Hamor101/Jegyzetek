@@ -54,6 +54,36 @@
   - Nitrogen --> needed for protein & DNA, can be converted to ammonia
   - CO<sub>2</sub> --> required for photosynthesis
   - Water vapor --> important for water cycle, every living oranism needs it, influences weather
-- 
+- WHat is the carrying capacity of the environment:
+  - How many members of a species can live on the given area
+- species with K/R strategy based on 3 points:
 
+|X|reproduction|# of offspring|Adaptation|Environment|lifespan|examples|
+|-----|-----|-----|-----|-----|-----|-----|
+|K-strategy|Slow|Low|Long term adaptation|Stable|Long|Humans, large mammals|
+|R-strategy|Fast|High|None/only short term|Unstable|Short|rodents, insects|
+- Interaction type of humans & their gut flora
+  - Symbiosis
+- Commensalism:
+  - ...
+- What is antibiosis? How can we use it?
+  - (0, -) interaction between fungi and bacteria
+  - fungi produces antibiotics which stops bacteria from reproducing
+  - Can be used in healthcare
+- Common features/ differences of parasitism & predation
+  - common features
+    - both (+,-)
+    - both influence population size
+  - difference:
+    - predation usually results in death, parasitism doesn't
+- Competition:
+  - Between populations
+  - Can fight for food, water, territory, light
+  - Can result in one of the populations dying/leaving
+  - influences number of species in a given area
+|x|Producers|consumers|decomposers|
+|-----|-----|-----|-----|
+|Trophism|autotrophs|heterotroph|heterotroph|
+|Diet|Autotrophs/inorganic compounds|herbivore/omnivore/carbivore|detritivores|
+|Importance|Base of food webs|Influences number of producers/other consumers, keystone species are often|help recycling of organic compounds|
 </span>

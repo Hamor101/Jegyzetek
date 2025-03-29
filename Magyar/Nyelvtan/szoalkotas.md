@@ -20,10 +20,39 @@
 - Belső út:
   - Szóteremtés:
     - Nincs előzménye a szónak
-  - Szóalkotás:
+  - `Szóalkotás:`
     - `Meglévő nyelvi elemekből` összeállított szó
-    - Szóképzés
+    - `Szóképzés`
       - Pl. Chatel/csetel
-    - Szóösszetétel
+    - `Szóösszetétel`
       - Pl. okosóra
-    - ritkább módszzerek
+    - `ritkább módszerek:`
+      - `Szórövidülés`
+        - labor, kösz, fotó
+      - `Szóelvonás` -- Vélt/valós képző levétele
+        - gyárt --> gyár
+      - `Mozaikszó-alkotás:`
+        - Betűszó: Csak a kezdőbetűk pl. BKV, ÁFA
+        - Szóösszevonás: Hosszabb részletek kiragadása pl. Számtech, Köki
+      - `Szóalakvegyülés:`
+        - Rokon értelmű szavak vegyítése
+        - pl. Csokréta(csokor + bokréta), csupasz(csupa + kopasz)
+      - `Szóösszerántás:`
+        - két különböző jelentésű szó vegyítése
+        - pl: füstli (füstölt virsli), citrancs(citrom narancs)
+      - `Szóhasadás:`
+        - egy szó alakváltozatai külön jelentést kapnak
+        - pl: család--cseléd; só--sav
+      - `Köznevesülés:`
+      - szendvics, röntgen, dízel, huligán, mecénás
+      - `Ikerszó`
+        - izeg-mozog
+        - Csigabiga
+      - `Népetimológia`
+        - email --> emil
+
+
+## Gyakorlás
+  - Parázik -- Szórövidülés + képzés
+  - Műköröm -- Szóösszetétel (jelzős alárendelő)
+  - 

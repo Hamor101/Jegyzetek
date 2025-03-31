@@ -82,9 +82,11 @@
   - Can fight for food, water, territory, light
   - Can result in one of the populations dying/leaving
   - influences number of species in a given area
+
 |x|Producers|consumers|decomposers|
 |-----|-----|-----|-----|
 |Trophism|autotrophs|heterotroph|heterotroph|
 |Diet|Autotrophs/inorganic compounds|herbivore/omnivore/carbivore|detritivores|
 |Importance|Base of food webs|Influences number of producers/other consumers, keystone species are often|help recycling of organic compounds|
+
 </span>

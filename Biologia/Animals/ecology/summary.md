@@ -62,6 +62,7 @@
 |-----|-----|-----|-----|-----|-----|-----|
 |K-strategy|Slow|Low|Long term adaptation|Stable|Long|Humans, large mammals|
 |R-strategy|Fast|High|None/only short term|Unstable|Short|rodents, insects|
+
 - Interaction type of humans & their gut flora
   - Symbiosis
 - Commensalism:

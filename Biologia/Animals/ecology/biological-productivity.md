@@ -1,6 +1,6 @@
 <span style="font-family:'cascadia code'">
 
-#<span style="color:#fabd2f"> Biological productivity
+# <span style="color:#fabd2f"> Biological productivity
 
 - Communities' organic compound production
 - Primary productivity: Products of autotrophs, mainly plants

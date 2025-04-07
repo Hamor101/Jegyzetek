@@ -18,4 +18,4 @@
 - `Detritus:` fallen leaves -> earthworm -> blackbird[^1] -> hawk
 
 
-[^1]: RAAAAAH ![rararh](https://hips.hearstapps.com/hmg-prod/images/photograph-of-a-u-s-air-force-lockheed-sr-71a-blackbird-news-photo-513687579-1560367541.jpg)
+[^1]: RAAAAAH ![rararh](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lockheed_SR-71_Blackbird.jpg/1280px-Lockheed_SR-71_Blackbird.jpg)

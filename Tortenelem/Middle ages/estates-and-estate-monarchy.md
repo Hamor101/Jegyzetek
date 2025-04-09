@@ -28,8 +28,8 @@ Estates : Groups who have parliamentary representation
 [^2]: Difference between rights and priviliges: rights are for everyone, priviliges are not
 [^3]: Nobility in europe at the time was around `2%` of the population
 ## <span style="color:#fabd2f">France
-- One-chambered
 ### <span style="color:#fabd2f">French parliament
+- One-chambered
 - Name: `Estates general`
 - First parliament:
   - First called in `1302`
@@ -41,4 +41,18 @@ Estates : Groups who have parliamentary representation
   2. Nobility
   3. Third estate (everyone else)
 
-- The `3 groups` each `had one vote` 
+- The `3 groups` each had `one vote` 
+
+
+## Table
+
+||Early feudal monarchy|Estate monarchy|
+|-----|-----|-----|
+|Powers of the ruler|unlimited|limited in questions such as imposing taxes|
+|Law making|the `ruler's privilige`|shared by `ruler & parliament`|
+|Central government|Only a `chancellery`[^4] existed|ruler appointed officials (e.g for finance)|
+|Local government|controlled by nobles|controlled by nobles|
+|Army|Consisted of the `ruler's vassals`|`mercenaries` paid by the rule|
+
+
+[^4]: Purpose: to write down official documents

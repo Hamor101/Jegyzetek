@@ -52,7 +52,3 @@
         - email --> emil
 
 
-## Gyakorlás
-  - Parázik -- Szórövidülés + képzés
-  - Műköröm -- Szóösszetétel (jelzős alárendelő)
-  - 

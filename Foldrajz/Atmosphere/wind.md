@@ -28,6 +28,8 @@ Wind: Movement of air masses parallel to the surface of the Earth
   - May blow from `any direction`
 - _`Prevailing winds`_ (uralkodó szelek)
   - `Large` areas
-  - 
+
+### Local winds
+- 
 
 [^1]: 65 kts --> 120 kph

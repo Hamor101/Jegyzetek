@@ -6,3 +6,8 @@
 |s|Meerrettich|Torma|
 |r|Semf|Mustár|
 |e|Slowakei|Szlovákia|
+|r|Maibaum|Májusfa
+|r|Maibowle|Májusi bor
+|e|Walpurgisnacht|
+|e|Hexe| Boszorkány
+|e|Klassenfahrt|Osztálykirándulás

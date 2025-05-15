@@ -1,3 +1,5 @@
+<span style="font-family:'cascadia code'">
+
 # Vocab 2 -- Verbs
 
 |De|Hu|perfekt|
@@ -18,3 +20,4 @@
 |sehen|látni|hat gesucht|
 |schlafen|aludni||
 |übernachten|éjszakázni|hat übernachtet|
+|weh tun|fájni||

@@ -1,13 +1,17 @@
 # Vocab -- Nouns
 |r/e/s|De|Hu|
 |-----|-----|-----|
-|e|Ferien (Pl.)|Szünet|
-|e|Osterferien|Tavaszi szünet (lit. hússvét szünet)|
-|s|Meerrettich|Torma|
-|r|Semf|Mustár|
-|e|Slowakei|Szlovákia|
-|r|Maibaum|Májusfa
-|r|Maibowle|Májusi bor
-|e|Walpurgisnacht|
-|e|Hexe| Boszorkány
-|e|Klassenfahrt|Osztálykirándulás
+|die|Ferien (Pl.)|Szünet|
+|die|Osterferien|Tavaszi szünet (lit. hússvét szünet)|
+|das|Meerrettich|Torma|
+|der|Semf|Mustár|
+|die|Slowakei|Szlovákia|
+|der|Maibaum|Májusfa
+|der|Maibowle|Májusi bor
+|die|Walpurgisnacht|
+|die|Hexe| Boszorkány
+|die|Klassenfahrt|Osztálykirándulás
+|der|Kopf|fej|
+|der|Ratschlag|tanács|
+|die|Frage|kérdés|
+|die|Antwort|válasz|

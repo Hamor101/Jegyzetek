@@ -1,17 +1,26 @@
 <span style="font-family:'cascadia code'">
 
 # <span style="color:#fabd2f">Biblia
+```
+Biblia jelentése: Könyvecskék
+```
+## <span style="color:#fabd2f">A biblia jelentősége
+- A keresztény vallás szentkönyv
+- Nagy befolyással volt az európai kultúrára
+##
+- `Kanonizálás` : Bizonyos iratok szentkönyvként való elfogadása
+- `Apokrif iratok` : vallási szövegek amelyeket nem válogattak be a kánonba [^1]
+[^1]: Pl.: Júdás evangéliuma
+- 
+## <span style="color:#fabd2f">A biblia részei
+||Ószövetség|Újszövetség|
+|-----|-----|-----|
+|plot|Isten a zsidókkal kötött szövetsége|jézus élete|
+|Keletkezési idő|kr.e 12. sz. - kr. e. 2. sz.|kr. u. 1. sz. - kr. u. 2. sz.|
+|Nyelv|Héber és arámi|görög|
 
-## Feladat
-1. a $\checkmark$
-2. b $\checkmark$
-3. a $\checkmark$
-4. d $\checkmark$
-5. d $\checkmark$
-6. d $\checkmark$
-7. b $\checkmark$
-8. c $\checkmark$
-9. b X a
-10. d $\checkmark$
+## Legfontosabb fordítások
+- Első nem-latinra fordított biblia: Luther Márton (1534)
+- Első teljes magyar biblia: Károli Gáspár et al. (1590)
 
-9/10
+### Feladat

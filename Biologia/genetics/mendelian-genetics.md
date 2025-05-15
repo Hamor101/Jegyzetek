@@ -12,4 +12,5 @@
 
 ## Laws of genetics
 `I. Uniformity principle:` - Homozygous parents' first generation offspring are the same, both in terms of geno- and phenotype\
-`II. Segregation principle:` - Parental traits don't blend, they segregate in the second generationn and can be seen\
+`II. Segregation principle:` - Parental traits don't blend, they segregate and can be seen in the second generation\
+`III. Independent assortment principle:` - Different pairs of alleles are passed to offspring independently of each other, so new combinations of alleles appear, different from the parents in the 2nd generation

@@ -42,7 +42,5 @@ Parents: I<sup>a</sup> i x I<sup>b</sup> i
 |i|I<sup>b</sup>, i : `B`|i, i : `O`|
 
 
-## <span style="color:#fabd2f">Intermediate inheritance
-
 
 

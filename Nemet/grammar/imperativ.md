@@ -10,3 +10,11 @@
 |Geh|Geht|
 |warte|wartet|
 |Lern|Lernt|
+
+
+
+##
+- Mutter, gib mir Schokolade bitte
+
+##
+- bitte geben Sie mir einen Kuli

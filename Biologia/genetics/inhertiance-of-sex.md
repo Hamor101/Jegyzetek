@@ -4,7 +4,7 @@
 
 - Baseides autosomnal chromosomes, there are sex chromosomes
 - Sex chromosomes determine the gender
-- Mainly femalses have same sex chromosomes (XX) and males have different (XY)
+- Mainly females have same sex chromosomes (XX) and males have different (XY)
 - Many birds and butterflies have sex chromosome inversly:
-  - males are homozygotes (WZ)
-  - Females are heterozygotes(ZZ)
+  - males are homozygotes (ZZ)
+  - Females are heterozygotes(WZ)

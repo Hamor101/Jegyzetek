@@ -15,3 +15,4 @@
 |der|Ratschlag|tanács|
 |die|Frage|kérdés|
 |die|Antwort|válasz|
+||||

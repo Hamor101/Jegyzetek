@@ -22,3 +22,5 @@
 |übernachten|éjszakázni|hat übernachtet|
 |weh tun|fájni||
 |Abholen|Felvenni (to pick up)|
+|Verschwinde|eltűnni|
+|Abhauen|elhúzni|

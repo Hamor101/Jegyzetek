@@ -1,20 +1,9 @@
 <span style="font-family:'cascadia code'">
 
 # <span style="color:#fabd2f">Imperativ
+- Fordított szórend (igével kezdünk)
 
-|E/2|T/2|
-|---|---|
-|Nimm mit|`Nehmt mit`|
-|Fang an|Fangt an|
-|Sei|`Seid`|
-|Geh|Geht|
-|warte|wartet|
-|Lern|Lernt|
-
-
-
-##
-- Mutter, gib mir Schokolade bitte
-
-##
-- bitte geben Sie mir einen Kuli
+## Ragok/Alanyok
+- ich, er, sie: `sollen` segédigés
+- wir, Sie: igerag megegyezik a kijelentő móddal
+- Ihr: igerag megegyezik a kijelentő móddal, nincs alany

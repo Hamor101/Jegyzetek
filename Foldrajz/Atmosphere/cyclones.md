@@ -27,7 +27,32 @@ Circular systems of low atmospheric pressures in which the pressure gradient is 
 ### Tropical belt cyclones & tornadoes
 - Similar to temperate belt cyclones, `except stronger`
 - `Hurricanes & Typhoons` belong here
-
+- Hurricanes
+  - Atlantic ocean --> Caribbean region
+  - Name comes from local language of caribbean (named after a storm god)
+- Typhoon
+  - Eastern Pacific ocean --> Southeast Asia
+- `Common features`
+  - Large, whirling system of clouds (visible from same)
+  - Rougly the same diameter as Temperate cyclones (300 - 500km)
+  - Anticlockwise
+  - Extremely strong wind (150 - 200 kph)
+  - Strong rainfall (due to extremely large pressure gradient)
+  - Generates large seawaves
+  - In the middle --> Called 'the eye' (10 - 20 km)
+    - Less rain
+    - Less wind
+    - Clear skies
+  - Predictable
+- `Conditions`
+  - Warm seawater (26-27 °C)
+  - 5° - 15° North or South longitude
+- `Tornadoes`
+  - Typical in the temperate belt
+  - Supercell
+  - Extremely low pressure
+  - Wind speed: 300-800 kph
+  - March-November
 ## <span style="color:#fabd2f">Anticyclones
 - `Northern hemisphere` --> Clockwise motion
 - `Southern hemisphere` --> Anticlockwise motion
@@ -37,4 +62,4 @@ Circular systems of low atmospheric pressures in which the pressure gradient is 
   - Outward wind
   - Coriolis force deflects wind --> whirling movement 🌀
   - As it moves out, wind is deflected downwards
-  - Downwards movin air --> dry air --> clear skies --> no precipitation
+  - Downwards moving air --> dry air --> clear skies --> no precipitation

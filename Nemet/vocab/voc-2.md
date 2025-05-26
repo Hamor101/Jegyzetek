@@ -24,3 +24,4 @@
 |Abholen|Felvenni (to pick up)|
 |Verschwinde|eltűnni|
 |Abhauen|elhúzni|
+|Ferbrechen|Gyújtogatni|

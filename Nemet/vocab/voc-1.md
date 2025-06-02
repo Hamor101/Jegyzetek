@@ -1,3 +1,5 @@
+<span style="font-family:'Cascadia code'">
+
 # Vocab -- Nouns
 |r/e/s|De|Hu|
 |-----|-----|-----|
@@ -15,4 +17,9 @@
 |der|Ratschlag|tanács|
 |die|Frage|kérdés|
 |die|Antwort|válasz|
-||||
+|das|Verkehrsmittel, -n| Közlekedési eszköz|
+|das|Öffi|Tömegközlekedés|
+|der|Bus, -se|busz|
+|die|U-bahn, -en|metró|
+|die|S-bahn, -en|HÉV|
+|die|Straßenbahn, -en|villamos|

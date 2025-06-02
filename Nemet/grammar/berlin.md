@@ -16,10 +16,21 @@
 
 
 
-## Hausaufgabe
+## <span style="color:#fabd2f">Hausaufgabe
 - Start --> Bahnhof
 - Geh gerade aus bis zur vierte Kreuzung
 - Geh links, dann geh rechts bis zur Kreisverkehr
 - Nimm die zweite Ausfahrt
 - Geh gerade aus bis zur nächste Kreuzung
 - Geh rechts, dann geh gerade aus bis zur Bahnhof
+
+
+## Öffentlichverkehrssmittel / Öffi
+|Wo? (dat)|Wohin? (Akk)|
+|-----|-----|
+|am Bahnhof|in den Bus|
+|an der Haltestelle||
+
+
+- nimm die Straßenbahn Linie 12 = "Take the number 12 tram"
+- über die Straße = Cross the street

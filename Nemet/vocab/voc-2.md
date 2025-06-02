@@ -25,3 +25,7 @@
 |Verschwinde|eltűnni|
 |Abhauen|elhúzni|
 |Ferbrechen|Gyújtogatni|
+|ein\|steigen|felszállni|
+|aus\|steigen|leszállni|
+|um\|steigen|átszállni|
+|steigen, stieg|szállni|

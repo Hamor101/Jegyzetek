@@ -22,12 +22,18 @@
 - Crowned 1001, Esztergom
 - Born Vajk --> Got baptized --> Adopted the name István
 - Fought Koppány for the throne --> Koppány was cut into 4 pieces
+- First to codify laws
+- First to mint coins
 ## <span style="color:#fabd2f">Succession
-- Would not have been the successor to the throne due to `senority`[^3]
+- Would not have been the successor to the throne due to `seniority`[^3]
 - Géza implemented Primogeniture[^4] --> István became king
-## <span style="color:#fabd2f">Sainting
+## <span style="color:#fabd2f">Canonization
 - Sainted by László
-#
+## <span style="color:#fabd2f">Legal ideas
+- Punishment --> Mostly fines (to compensate for the crime)
+- Rich had to pay more (on account of being seen as more virtuous)
+- Some crimes were still punished on the _eye for an eye_ principle
+- Families lost their wealth in case of treason
 
 [^1]: He also made his son István marry a Bavarian princess
 [^2]: The ruler of transylvania

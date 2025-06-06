@@ -14,5 +14,5 @@
 - Főhőse: Jézus előképe
   - A megbocsájtás
 
-> [!FAQ]+ Test
-> This is a test :))
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.

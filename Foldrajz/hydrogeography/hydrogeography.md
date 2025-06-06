@@ -12,4 +12,14 @@
 - Largest lake by water content: Lake Baykal
 ![](output.png)
 
+## Division of the world's oceans
+- Critera for an `ocean`
+  - Independent basin
+  - High average depth (2000-4000m)
+  - Constant salinity
+  - Independent current system
+- Criteria for `seas`
+  - Smaller, salty bodies of water
+  - Connected to world ocean
+
 ## <span style="color:#fabd2f">Water cycle

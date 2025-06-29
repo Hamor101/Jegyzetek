@@ -1,0 +1,169 @@
+<span style = "font-family:'cascadia code'">
+
+# <span style="color:#fabd2f"> Ecology
+## Abiotic environment factors
+### `Light:`
+  - `Solar energy` of the Sun
+  - Base of life
+  - `Photosnthesis` uses light to create chemical energy
+  - Chemical energy is found in bonds of organic compounds
+  - `Parts of sunlight:`
+    - UV (<400nm) harmful for DNA
+    - Visible light (400-750nm)
+    - IR (>750nm) heat, temperature
+  - 50% of light emitted by the Sun is reflected back into space
+  - Indirect light is reflected from clouds, dust, steam
+  - Direct light:
+    - 87-88% absorbed by surface
+    - 10% reflected
+    - 2-3% used by photosynthesis
+  -  Ratio of direct and indirect light depends on:
+     -  Latitude
+     -  Altitude
+     -  relief
+     -  Vegetation
+     -  Season
+     -  Time of day
+     -  Weather & clouds
+  - Groups of plants based on need for light:
+    - Light tolerant plants: Like direct light
+    - Light and shadow tolerant plants: need both light and shadow
+    - Shade tolerant plants:
+      - direct light causes them damage, they need indirect light
+  - the light influences animals:
+    - Reproduction
+    - Body temp
+    - Orientation
+    - Hibernation
+  - `Groups of animals based on activity:`
+    - Diurinal animals : active during daylight
+    - Crepuscular animals : active during dawn and dusk
+    - Nocturnal animals : Active during night
+- `Temperature:`
+  - Most heat energy comes from Sun
+  - Heats up earth's surface
+  - Earth's surface heats up the air
+  - Greenhouse gases:
+    - CO<sub>2</sub>, CH<sub>4</sub>, O<sub>3</sub>, NOx, H<sub>2</sub>O
+    - Growth in volume of these gases causes increase in temperature (greenhouse effect) --> Result is global warming
+  - Factors that influence the temperature of an area:
+    - Distance from the equator (Latitude)
+    - Distance from sea level (Altitude)
+    - Presence of water
+      - Water has a buffer effect
+      - It has higher thermal capacity (more time to change temp)
+    - Relief (e.g southern parts of hills are warmer)
+    - Soil type
+    - Water content in soil
+    - Vegetation
+  - `Temperature influences:`
+    - Metabolism
+    - Reproduction
+    - Enzymes
+      - They are only active at a given temperature
+      - (e.g in the winter the enzymes needed for photosynthesis are inactive)
+  - `Types of animals based on heat tolerance:`
+    - Thermophilic (melegkedvelő): Narrow tolerance for heat, live in tropical areas
+    - Temperate zone species: Broad tolerance for temperature
+      - They have solutions for warm and cold weather as well (fur, fat etc.)
+    - Cold loving species:
+      - Narrow tolerance
+      - Live in cold zones (taiga, polar regions)
+  - `Types of animals based on body temperature:`
+    - Endothermic: Thermoregulatory center in brain, they can control body temperature, they also have insulation
+    - Ectothermic: Body temperature depends on environment
+### <span style="color:#fabd2f">Water
+  - Essential for life
+  - Requirement for biological processes
+  - Conditions of water that can influence living organisms:
+    - Density
+    - Salinity
+    - Temperature
+    - Dissolved gas content
+  - Water distribution is uneven arond the Earth
+  - 2 groups of plants based on water supply:
+    - poikilohydry (változó vízállapotú) -- Cannot regulate water loss, depend on the environment's water content (non-vascular plants belong here)
+    - homoihydry -- Can regulate evapotranspiration, can have waterproof cuticle on epidermis, can change surface area of leaves (vascular plants belong here)
+      - `Groups of homoihydry:`
+        - Aquatic : live in water, have undeveloped roots
+        - Marshland plants : intense water absorption and evapotranspiration
+        - "Medium water supplied" plants : can tolerate drought for a while by lowering evapotranspiration, but not forever
+        - Drought tolerant plants : long roots, small leaves, waxy cuticle
+  - Animals and water:
+    - Marine and freshwater species:
+      - Don't have to protect against dessication
+    - Humid habitat animals:
+      - Need humidity in air
+      - If air dries, they will hide
+    - Dry habitat animals:
+      - Can control/regulate water loss
+      - Have keratinized skin
+      - Denser urine
+      - dry faeces
+
+### <span style="color:#fabd2f">Soil
+- Earth's surface's `uppermost fertile layer`
+- Soil formation is a `long process`
+    1. Physical fragmentation happens with the bedrock (wind, rain, ice)
+    2. Chemical weathering: smaller fragments can undergo chemical reactions
+    3. Biological weathering: Transformations happen with rocks caused by metabolites of organisms
+- `Humus` is the `nutrient source` of plants  
+  - Made by `decomposer organisms`
+- `Soil characteristics:`
+  - Texture:
+    - Proportion of `solid components` and `gaps`
+    - `Calcerous soils` with humus are best
+    - `Saline` soils are the worst (too compact)
+  - Temperature & fluctuation:
+    - `Dark:` Absorbs more haet, low fluctuation, high capacity
+    - `Light:` High heat fluctuation, high capacity
+  - Soil pH:
+    - Depends on type of bedrock, climate, vegetation, soil organisms, season
+    - `Lower` pH: dissolved heavy metals, `bad for plants`
+    - Saline soils are highly alkaline
+    - Nutrient & mineral content:
+      - Through plants it influences, as plants are the base of the food chain
+
+### <span style="color:#fabd2f">Air
+  - Chemical and physical characteristics of air are important for life
+  - 3 main parts:
+    - 78% N<sub>2</sub>
+    - 21% O<sub>2</sub>
+    - 0.04% CO<sub>2</sub>
+  - Also variable amounts of:
+    - CH<sub>4
+    - H<sub>2</sub>O
+    - CO
+    - NO<sub>2
+    - N<sub>2</sub>O
+    - SO<sub>2
+  - <span style="color:#ff6835">Nitrogen
+
+    - For most organisms, it's neutral
+    - Except for `nitrogen-fixing bacteria`
+    - These bacteria `live in the soil` or in `symbiosis` with plants
+    - Plants can use <span style="color:#ff6835">ammonia</span> to `build their proteins` and nucleic acid
+  - <span style="color:#ff6835">Oxygen
+    - Byproduct of `photosynthesis`
+    - Aerobic organisms `need it to get energy` (ATP)
+    - Used for `respiration`
+    - Starting material of `ozone production`
+    - UV rays `produce AND break down` ozone
+  - <span style="color:#ff6835">Carbon dioxide
+    - Essentially the `opposite role as oxygen`
+    - Level is `reduced by`:
+      - Photosynthesis
+      - Rock formation
+      - Absorption in water
+    - Level `increased by`:
+      - Respiration
+      - Degradative processes
+      - Combustion
+      - Volcanic activity
+  - <span style="color:#ff6835">Other important components
+    - Water vapor: influences weather, `evapotranspiration`
+    - Pollutants (bad ＞﹏＜)
+    - Dioxides
+  - Physical characteristics of the air
+    - Wind (air movement) --> balances temperature/moisture differences
+    - Blast/Air presure (légnyomás) Its fluctuation influences animals' life activities

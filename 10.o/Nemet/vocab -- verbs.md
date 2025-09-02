@@ -3,4 +3,5 @@
 |De|Perfekt|Hu|
 |-----|-----|-----|
 |faulenzen||lustálkodni|
+|nähen||varrni|
 

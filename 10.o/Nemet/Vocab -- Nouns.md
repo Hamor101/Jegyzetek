@@ -4,3 +4,4 @@
 |-----|-----|-----|
 |e|Tatsache, -n|tény|
 |r|Fakt, -en|Tény|
+|e|Veranstaltung, -en|rendezvény|

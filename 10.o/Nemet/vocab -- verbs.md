@@ -4,4 +4,5 @@
 |-----|-----|-----|
 |faulenzen||lustálkodni|
 |nähen||varrni|
+|Veranstalten||rendezni vmit|
 

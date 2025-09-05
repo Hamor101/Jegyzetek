@@ -11,3 +11,9 @@
     - Lehetséges pontok:
         - Hogy telt a nyár (élmények/benyomások/változások)
         - Tervek a tanévre (Iskolai/Iskolán kívüli tervek)
+
+## Szeptember 4.
+- Összetett szavak írása:
+    - 1 szervetlen
+    - 1 alárendelő
+    - 1 mellérendelő

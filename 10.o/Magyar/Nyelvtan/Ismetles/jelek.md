@@ -52,4 +52,5 @@
 - Kiesés --> Mondta
 - Rövidülés --> Otthon
 - Nyúlás --> Lesz
-
+## Hazi
+- 

@@ -17,3 +17,7 @@
     - 1 szervetlen
     - 1 alárendelő
     - 1 mellérendelő
+
+
+## Szeptember 15.
+- Vilagnak vilaga resz -- virud holl vizeül reszig

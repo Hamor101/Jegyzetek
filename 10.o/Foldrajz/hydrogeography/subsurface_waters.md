@@ -55,6 +55,7 @@
 - Layerwater which collects in and springs out of limtestone mountains
 ### Mechanism
 - 2 mechanisms:
-    - Impermeable layers `aren't completely impermeable`
+    - Impermeable layers `aren't completely impermeable`\
      OR\
     - Water gets between the impermeable layer `from the side`
+

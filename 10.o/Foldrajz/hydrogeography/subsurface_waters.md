@@ -1,3 +1,5 @@
+<span style="font-family:'cascadia code'">
+
 # <span style="color:#fabd2f">Subsurface waters
 `Infiltration` : The process by which water sinks into the soil\
 - 3 types:
@@ -56,6 +58,6 @@
 ### Mechanism
 - 2 mechanisms:
     - Impermeable layers `aren't completely impermeable`\
-     OR\
+     OR
     - Water gets between the impermeable layer `from the side`
 

@@ -30,4 +30,17 @@
 - also called Vitamin F
 - Essential for humans
 
+### Importance
+- Food storage
+- heat insulation
+- Mechanical protection
+- Waterproofing of skin
+- Solvents for some vitamins
+- Essential
+
+## Healthcare aspects
+- Lipids provide twice the energy of carbohydrates/proteins
+- Minimum energy required in 1 day: 2400 kJ
+
+
 [^1]: An aesther is a compound of `alcohol and acid`

@@ -42,5 +42,62 @@
 - Lipids provide twice the energy of carbohydrates/proteins
 - Minimum energy required in 1 day: 2400 kJ
 
+## <span style="color:#fabd2f"> Phospholipids
+- Instead of a third fatty acid chain, they have a phosphate group
+- Half polar, half apolar
+- Creates a bilayer to form the cell membrane
+
+## <span style="color:#fabd2f"> Steroids
+- Chemicals with a sterane base
+### Bile salts
+- emulsifier
+- makes fat into small droplets --> easier digestion
+
+### Vitamin D
+- fat-soluble
+- Important for proper formation of bones
+- Boosts immune system performance
+- Its lack causes `rachitis / rickets`[^1]
+- UV in sunlight promotes production of Vitamin D in the skin
+
+### Coricostreoids
+- Lowers immune system function
+- Important for metabolisis
+- e.g cortisol
+
+### Cholesterol
+- Strengthens cell membrane
+- High cholesterol is correlated with CHD
+- Hydrophobic
+    -in The blood it is transported by HDL[^2], LDL[^3]
+[^2]: High-Density Lipoprotein: Delivers cholesterol from the artieries to the liver (--> 'good' cholesterol)
+[^3]: Low-Density Lipoprotein: Delivers cholesterol from the liver to the arteries
+
+## <span style="color:#fabd2f"> Carotenoids
+- Their name comes from 'carrot'
+- They are plant pigments creating a bright red/yellow/orange color
+- They absorb light, help chlorophyll
+- Important for animals & humans
+- Lack of coretnoids causes night blindness
+- Protects DNA from 'free radicals'
+- Antioxidant function
+- Conjugated double bonds: Causes their vibrant color
+- Some carotenoids:
+    - Carotene : orange
+    - Licopene : bright red (found in tomatoes)
+    - Xanthophyll : yellow (in fallen leaves)
+    - Vitamin K
+    - Vitamin E
+
+
+
+[^1]: angolkór
+
+
+
+
+
+
+
 
 [^1]: An aesther is a compound of `alcohol and acid`

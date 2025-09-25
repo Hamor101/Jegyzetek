@@ -35,4 +35,19 @@
 - "A kutya régóta türelmesen ül a bevásárlóközpont parkolójában álló autóban"
     - Á: "ül"
     - A: "kutya"
-    - 
+
+## <span style="color:#fadb2f">Gyakorlás
+- 2 alárendelő, 1 mellérendelő szintagma
+- Könyvet olvas, Autót vezet
+- Ég és föld
+
+- fekete tehát rossz -- következtető
+- Főzni fog -- ál
+- Megette, ezért meghalt -- mellérendelő
+- Egy mangó -- ál/alárendelő
+- a ló -- ál
+- Dzsennifer és ármándó -- mellérendelő
+- csokit ettem -- alárendelő
+- nincs lelkem -- alárendelő
+- csendesen szól -- alárendelő
+- milyen szín -- ál

@@ -57,10 +57,10 @@
 - fat-soluble
 - Important for proper formation of bones
 - Boosts immune system performance
-- Its lack causes `rachitis / rickets`[^1]
+- Its lack causes `rachitis / rickets`[^2]
 - UV in sunlight promotes production of Vitamin D in the skin
 
-### Coricostreoids
+### Corticostreoids
 - Lowers immune system function
 - Important for metabolisis
 - e.g cortisol
@@ -69,9 +69,9 @@
 - Strengthens cell membrane
 - High cholesterol is correlated with CHD
 - Hydrophobic
-    -in The blood it is transported by HDL[^2], LDL[^3]
-[^2]: High-Density Lipoprotein: Delivers cholesterol from the artieries to the liver (--> 'good' cholesterol)
-[^3]: Low-Density Lipoprotein: Delivers cholesterol from the liver to the arteries
+    -in The blood it is transported by HDL[^3], LDL[^4]
+[^3]: High-Density Lipoprotein: Delivers cholesterol from the artieries to the liver (--> 'good' cholesterol)
+[^4]: Low-Density Lipoprotein: Delivers cholesterol from the liver to the arteries
 
 ## <span style="color:#fabd2f"> Carotenoids
 - Their name comes from 'carrot'
@@ -91,7 +91,7 @@
 
 
 
-[^1]: angolkór
+[^2]: angolkór
 
 
 

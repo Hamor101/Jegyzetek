@@ -34,7 +34,7 @@
   - Guilds were `heavily regulated` --> Limited production
 #
 ### `Solution:` Putting-out system
-- `raw materials` were brought to guilds from the countryside by `entrepeneurs`
+- `raw materials` were brought to villages from the countryside by `entrepeneurs`
 - `Villagers` produced required goods
 - Goods were `sold elsewhere`
 #

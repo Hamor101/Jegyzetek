@@ -24,6 +24,7 @@
 - Bible should be accessible
 - Celibacy is DUMB
 
-## John Calvin
+## <span style="color:#fabd2f">John Calvin
+-
 
 [^1]: Notes which allowed believers to be forgiven by the Pope and skip purgatory, usually costing around ~6 months of wages for a peasant

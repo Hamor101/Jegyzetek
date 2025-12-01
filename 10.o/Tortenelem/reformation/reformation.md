@@ -22,9 +22,14 @@
 - Priests are not needed
 - whst did he meme by thst
 - Bible should be accessible
-- Celibacy is DUMB
+- Celibacy is DUMB (szako approved)
 
-## <span style="color:#fabd2f">John Calvin
--
+## <span style="color:#fabd2f">John Calvin & calvinism
+- Predestination:
+  - Fate is decided `at birth` --> Salvation or damnation
+### Ideas
+- people should respect autorities
+- officials could resist the ruler if the king didn't abide by the law or if he wanted to be a `despot`
+
 
 [^1]: Notes which allowed believers to be forgiven by the Pope and skip purgatory, usually costing around ~6 months of wages for a peasant

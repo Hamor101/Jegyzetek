@@ -23,6 +23,9 @@
 - whst did he meme by thst
 - Bible should be accessible
 - Celibacy is DUMB (szako approved)
+- Only believed in 2 sacraments:
+  - baptism
+  - communion
 
 ## <span style="color:#fabd2f">John Calvin & calvinism
 - Predestination:

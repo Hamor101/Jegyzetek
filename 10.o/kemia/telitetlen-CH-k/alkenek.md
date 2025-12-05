@@ -3,10 +3,10 @@
 # <span style="color:#fabd2f">Telítetlen szénhidrogének
 - Kevesebb hidrogént tartalmaznak mint amennyit a szénatomszám alapján lehetne
 
-## Alkének
+# Alkének
 - Oly szénből és hidrogénből álló vegyületek, melyekben egy darab kettős kötés található
 - 
-### Etén
+## Etén
 - Legegyszerűbb alkén
 - A kettős kötésből:
   - Egyik `szigma` (erősebb a pi kötésnél)
@@ -21,4 +21,15 @@
 - A korom elemi szenet tartalmaz, nem oxidálódik fel teljesen
 - Jellemző rá az egyesülési reakció, az `addíció`[^1]
 - Polimerizáció: Olyan reakció, mely során egy vegyület sok azonos molekuláját összekapcsoljuk melléktermék képződése nélkül
+### Felhasználása
+- Gyümölcsök mesterséges érlelése (növényi hormon)
+- Polimerizációval műanyagot gyártanak belőle
+
+## Egyéb alkének
+### Elnevezés
+- Hasonlóan történik mint az alkánok esetében
+  - [-án] végződés helyett [-én] végződést kapnak
+- A kettős kötés helyzete elsődleges
+
 [^1]: Két anyagból egy anyag keletkezik
+

@@ -46,6 +46,22 @@
 - Can fill 90% of the cell
 - Product of the [Golgi apparatus](#golgi-body-golgi-apparatus)
     - Keeps the cell `firm`
+## <span style="color:#fabd2f"> Chloroplasts
+- Surrounded by `double mebrane`
+- Has its `own DNA`
+- May be derived from ancient photoautotrophic prokaryotes --> Endosymbiosis
+- Parts:
+  - Thylakoid membrane: Flattened sacs within the chloroplast
+  - Grana: Stacks of thylakoids
+  - Stroma: Liquid surrounding the thylakoids
+## <span style="color:#fabd2f"> Mitochondria
+- Surrounded by `double membrane`
+- Has its `own DNA`
+- May also have originated through endosymbiosis
+- Center of ATP production in eukaryotes & animal cells
+## <span style="color:#fabd2f"> Nucleus
+- Contains the `genetic information`
+- `Nucleolus` --> Makes ribosomes
 
 
 ## <span style="color:#fabd2f">Transport processes across membranes

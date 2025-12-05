@@ -12,4 +12,6 @@
 
 [^1]:
 
-### Tagolatlan
+#
+- Vak ember tehenére isten vigyáz
+- 

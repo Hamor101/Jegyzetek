@@ -9,3 +9,13 @@
     - $CH_2=CH-CH_2-CH=CH_2$ --> Pent-1,4-dién
   - KOnjugált --> A kettős kötések `között 1db egyszeres kötés`
     - $CH_2=CH-CH=CH-CH_3$ --> Pent-1,3-dién
+
+## Konjugált diének
+### Butadién (buta-1,3-dién)
+- Legegyszerűbb konjugált dién
+- Színtelen
+- Jellegzetes szagú (sajátos)
+- Gáz
+- Könnyen cseppfolyósítható
+- Műgumi gyártásra használják
+

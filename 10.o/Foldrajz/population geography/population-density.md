@@ -35,8 +35,6 @@ $CDR = \frac{Deaths}{Total\space Population}*1000$
 ### Natural growth
 $NG = CBR - CDR$
 
-## Factors
--
 
 
 

@@ -26,10 +26,20 @@
 - Polimerizációval műanyagot gyártanak belőle
 
 ## Egyéb alkének
+- A kettős kötés miatt az atomcsoportok nem képesek elfordulni
+- Fizikai tulajdonságok az alkánokéhoz hasonlóak
+### Kémiai tulajdonságok
+- Jellemző az addíció, polimerizáció
+- Tökéletlen égés
+- 
+
 ### Elnevezés
 - Hasonlóan történik mint az alkánok esetében
   - [-án] végződés helyett [-én] végződést kapnak
 - A kettős kötés helyzete elsődleges
+-
+
+
 
 [^1]: Két anyagból egy anyag keletkezik
 

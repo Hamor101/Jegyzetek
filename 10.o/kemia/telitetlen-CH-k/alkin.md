@@ -1,0 +1,24 @@
+# Alkinek
+- Oly szénből és hidrogénből álló vegyületek melyekben egy darab hármas kötés található
+- Elnevezés: [-in]-re végződnek a molekulák
+## Etin
+- Lineáris molekula
+- Kötések
+  - 1x szigma
+  - 2x pi
+- Alacsony olvadás- és forráspont
+- Apoláris oldószerben jól oldódik, polárisban nem
+- Színtelen
+- Szagtalan
+- Gáz
+- Nyomás hatására robban --> elemeire (C, H) bomlik
+- Nagyon reakcióképes
+- Erősen kormozó lánggal ég
+- jellemző rá az addíció
+- $H_2$ addíció:
+  - Először etén, majd etán keletkezik
+- $HCl$ addíció
+  - Klóretén | Vinilklorid keletkezik
+  - Vinil csoport:
+    - Egyel kevesebb hidrogén az eténnél
+    - Polimerizációval Polivinilklorid (PVC) keletkezik

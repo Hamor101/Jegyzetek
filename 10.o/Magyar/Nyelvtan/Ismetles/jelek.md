@@ -1,3 +1,5 @@
+<span style="font-family:'cascadia code'">
+
 # <span style="color:#fabd2f">Év eleji ismétlés // Jelek és jelrendszerek
 
 - Jel: `Fizikailag érzékelhető, önmagán túlmutató jelentéssel bíró fizikai jelenség`

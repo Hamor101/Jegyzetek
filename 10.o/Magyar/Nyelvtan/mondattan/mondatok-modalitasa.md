@@ -20,3 +20,9 @@
   - Úgy érzem, sokat fogok aludni
   - KIváncsi vagyok arra, mit kapok karácsonyra
   - Annyit ettem, amennyit csak lehetett
+
+
+## Házi feladat
+- Amikor hazaértem, láttam hogy anya vacsorát főz.
+- Elindult az eső, fújni kezdett a szél, és az emberek sietni kezdtek
+- Amikor megszólalt a csengő, kinyitottam az ajtót, és megláttam a barátomat.

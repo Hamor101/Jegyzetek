@@ -38,7 +38,7 @@
   - Természetben erjedő gyümölcsökben fordul elő (gombák állítják elő cukrokból)
   - Természetes folyamatokban 15-18%-os alkohol keletkezik
   - Az alkohol méreg, ezért a gombák elpusztulnak
-  - Desztillációval töményíthető (96%-ig )
+  - Desztillációval töményíthető (96%-ig, ez az ún. tisztaszesz)
   - 100%-os alkohol csak vízelvolnó szerrel érhető el (ez az ún. abszolút alkohol)
   - Felhasználás
     - Fertőtlenítés

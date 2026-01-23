@@ -10,9 +10,11 @@
   - houseviwes
   - the unemployed (ewwww)
 
-## Types of workers
+- Employment regrouping: The tendency of different generations to transition to later sectors as a country's economy develops
+
+## <span style="color:#fabd2f">Types of workers
 - The first two types of activities are called 'productive', as they produce some kind of goods
-### Primary activities
+### <span style="color:#fabd2f">Primary activities
 - People whose work is `extracting the natural resources` of the earth
 - Some of the most ancient types of occupation
 - E.g:
@@ -21,7 +23,7 @@
   - Fishing
   - Mining
   - Hunting
-### Secondary activities 
+### <span style="color:#fabd2f">Secondary activities 
 - Industries
 - Creating/manufacturing physical products out of raw materials
 - E.g:  
@@ -29,6 +31,15 @@
   - Factory workers
   - Construction workers
   - Energy industry
-### Tertiary activities (Service sector)
+### <span style="color:#fabd2f">Tertiary activities (Service sector)
 - Includes many fields
 - People who provide some kind of service
+
+
+### <span style="color:#fabd2f">Quaternary activities (Fourth sector)
+- Concerned with providing informations and expertise
+- Industries:
+  - IT technologies
+  - internet
+  - telecommunication
+  - R&D

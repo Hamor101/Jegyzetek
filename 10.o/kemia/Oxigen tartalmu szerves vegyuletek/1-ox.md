@@ -23,6 +23,7 @@
     - `Elágazó` C atomhoz --> `Harmadrendű`
 ### <span style="color:#fabd2f">Etanol (aka etil-alkohol aka borszesz)
   - $CH_3-CH_2-OH$
+  - Apoláris és poláris része is van
   - Hidrogén kötés jellemző rá
   - Legismertebb alkohol
   - Színtelen, kellemes illatú folyadék
@@ -55,5 +56,23 @@
 - Sokkal veszélyesebb méreg mint az etanol ( nagyobb mennyisége halált & vakságot okoz)
 
 
-### Glikol
+### <span style="color:#fabd2f">Glikol (etán-1,2-diol)
 - kétértékű alkohol
+- Két hidroxil csoport miatt az apoláris jelleg háttérbe szorul
+- Erősen mérgező
+- Színtelen, sűrűn folyó, édes ízű folyadék
+- Fagyállónak használják, az 50/50%-os vízzel alkotott elegye -30°C-on fagy meg
+
+### <span style="color:#fabd2f"> Glicerin (Propán-1,2,3-triol)
+- Színtelen, sűrű folyadék
+- Nem mérgező
+- Minden előlényben előfordul --> Zsírok & olajok alkotója
+- Erősen nedvszívó (higroszkópos)
+- Kozmetikai iparban használatos
+- Élelmiszeradalékként is használják
+- Nitrálásssal robbanószert (nitroglicerin) állítanak belőle elő
+- Ha a kovaföldet átitatják nitroglicerinnel, az a dinamit (amit Alfred Nobel talált fel)
+
+## <span style="color:#fabd2f">Éterek
+- Olyan oxigéntartalmú szerves vegyületek, melynek funkciós csoportja az [Éter csoport](ox-tartalmu-szves-vegyuletek.md/#éter-csoport)
+- Az oxigénatomhoz kapcsolódó szénhidrogén csoportok neve után "-éter" szót teszünk

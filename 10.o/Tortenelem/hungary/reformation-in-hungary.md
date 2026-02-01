@@ -21,6 +21,6 @@
 - Concentration on the `struggle for the throne` --> Neither ruler wanted to `persecute protestants`
 - The Ottomans `didn't care as long as they paid tax`
 
-
+85
 ## Pázmány Péter & the catholic revival
-- 
+- happened

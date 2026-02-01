@@ -76,3 +76,17 @@
 ## <span style="color:#fabd2f">Éterek
 - Olyan oxigéntartalmú szerves vegyületek, melynek funkciós csoportja az [Éter csoport](ox-tartalmu-szves-vegyuletek.md/#éter-csoport)
 - Az oxigénatomhoz kapcsolódó szénhidrogén csoportok neve után "-éter" szót teszünk
+  - pl: $CH_3-O-CH_3$ --> Dimetil éter
+- Jobban hasonlít a szénhidrogénekhez, mint az alkoholokhoz
+- Az oxigén a molekula közepén --> Hatása nehezebben érvényesül
+- Előállítás: Kondenzáció (alkoholból)
+  - $R-OH + HO-R = H_2O + R-O-R$, ahol $R$ Szénhidrogén csoportot jelöl
+### Dietil éter
+- $CH_3-CH_2-O-CH_2-CH_3$
+- Hétköznapi neve: Éter
+- Színtelen, édeskés szagú folyadék
+- Könnyen párolog
+- Tiszta formában gyúlékony
+- Tökéletesen ég
+- Gőzei levegővel robbanó elegyet alkotnak
+- Jellemző reakciója a hidrolízis

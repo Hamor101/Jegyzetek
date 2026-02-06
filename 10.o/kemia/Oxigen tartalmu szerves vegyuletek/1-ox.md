@@ -90,3 +90,16 @@
 - Tökéletesen ég
 - Gőzei levegővel robbanó elegyet alkotnak
 - Jellemző reakciója a hidrolízis
+
+## Oxo
+
+## Aldehidek
+- Elnevezés: A szénhidrogén neve után -al végződés kerül
+- A legegyszerűbb aldehid gáz halmazállapotú
+- 2-12 C atom --> Folyékonyak
+- \>12 C atom --> Szilárd
+- Olvadás & forráspont:
+  - Hasonló méretű alkánoknál nagyobb
+  - Alkoholokhoz képest alacsonyak
+- Könnyen oxidálódnak --> Erélyes redukálószerek
+- A szénatomszám növekedésével a vízben való oldhatóság csökken

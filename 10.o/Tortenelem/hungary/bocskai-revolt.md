@@ -5,7 +5,7 @@
 ## <span style="color:#fabd2f">Bocskai István
 - Was a transylvanian prince
 ### <span style="color:#fabd2f">Relationship with haidus
-- Haidus were mostly worked mostly as mercenaries
+- Haidus worked mostly as mercenaries
 ### <span style="color:#fabd2f">Testament
 ### <span style="color:#fabd2f">Treaty of Vienna -- 1606
 - Made peace with the Habsburgs

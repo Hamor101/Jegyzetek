@@ -39,4 +39,4 @@
 - `Economic freedom` & political stability (thx to constitutional monarchy)
 - Introduction of `capitalist economic principles`
   -  Easier to establish mines & factories
-  -  New commercial inventions (e.gloom)
+  -  New commercial inventions (e.g:loom)

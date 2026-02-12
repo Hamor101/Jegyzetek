@@ -103,3 +103,12 @@
   - Alkoholokhoz képest alacsonyak
 - Könnyen oxidálódnak --> Erélyes redukálószerek
 - A szénatomszám növekedésével a vízben való oldhatóság csökken
+
+## Ketonok
+### Aceton (dimetilketon)
+- Hivatalos elnevezés: Propanon
+- Legegyszerűbb keton
+- Színtelen, jellegzetes szagú
+- Vízben, apoláris oldószerben is jól oldódik
+- A karbonil csoport poláris, metil csoportok apolárisak
+- Univerzális oldószer

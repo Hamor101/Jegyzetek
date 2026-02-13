@@ -40,3 +40,4 @@
 |-----|-----|-----|-----|-----|-----|-----|
 |'Dwarf' villages|Aprófalu|<500 ppl|30%|3%|Not viable, `unable to sustain basic services`, Most common in SW Hungary, NE Hungary, N Hungary|Iborfa (11ppl), Nemesmedves(23ppl)|
 |||||||
+|Dispersed||||||

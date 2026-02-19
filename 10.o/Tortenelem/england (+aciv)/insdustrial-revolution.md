@@ -40,3 +40,12 @@
 - Introduction of `capitalist economic principles`
   -  Easier to establish mines & factories
   -  New commercial inventions (e.g:loom)
+-  
+
+### <span style="color:#fabd2f"> Locomotion
+- First locomotive: `George Stephenson`
+- Effects:
+  - Created demand for the `heavy industries` (steel, coal, metallurgy)
+  - Made commuting easier --> More people could work in cities
+  - Useful for `military transportation` --> Soon railways `became nationalized`
+  - Sped up the post service

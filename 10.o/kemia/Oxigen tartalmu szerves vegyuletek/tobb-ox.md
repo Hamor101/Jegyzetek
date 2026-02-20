@@ -22,4 +22,19 @@
 - Vzzel és etanollal is jól oldódik
 - Bőrre kerülve hólyaghúzó hatású; erősen mar
 - Magnéziummal hidrogén fejlődése közben reagál
+- Sói neve: Formiátok
+- Mutatja az `ezüsttükörpróbát` és a `fehling reakciót`
+  - karbonsavak közül CSAK a hangyasav mutatja ezen reakciókat (tartalmaz formil csoportot)
+  - Az ezüsttükörpróba közben CO<sub>2</sub> keletkezik, ezért nem képződik tükröződő bevonat
+- előfordulása:
+  - Hangyák méregmirigyében
+  - Csalán mirigyszőrében
+  - Fenyők tűlevelébena
+
+### Sztearinsav
+- $C_{17}H_{35}-COOH$
+- Neve a görög szóból származik, melynek jelentése faggyú
+- Zsíros tapintású, viasz keménységű, szilárd anyag
+- Apoláris oldószerben oldódik
+- A nagyméretű karbonsavakat zsírsavaknak nevezzük
 [^1]: Olyan funkciós csoport, mely karbonil (C=O), ill. hidroxil (OH) csoportból áll

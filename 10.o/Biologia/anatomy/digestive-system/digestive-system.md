@@ -42,7 +42,7 @@
 
 
 
-## Digestive juices
+## <span style="color:#fabd2f">Digestive juices
 - Saliva:
   - Amylase
   - Mucus

@@ -32,7 +32,10 @@
 ## Voltaire
 - Candide/Az optimizmus
 
-
+## Goethe
+- Egyik legfontosabb műve: Vándor éji dala 
+  - az évszaktoposzoknak van napszaktoposz megfelelője
+  - önmegszólítás szerepel benne
 
 ## <span style="color:#fabd2f">Merev szabályok
 - Legontosabb szabály: Hármas egység --> Tér, idő, cselekmény egysége

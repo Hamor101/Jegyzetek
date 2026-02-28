@@ -49,3 +49,15 @@
   - Made commuting easier --> More people could work in cities
   - Useful for `military transportation` --> Soon railways `became nationalized`
   - Sped up the post service
+
+
+## <span style="color:#fabd2f">Social effects
+- Population boom
+### Urbanisation
+- The quick growth of towns had some negative effects:
+  - Air/noise/water pollution
+  - Greater social separation
+    - Slums around factories
+    - Better conditions downtown
+  - Appearance of the middle class & working class
+  - 

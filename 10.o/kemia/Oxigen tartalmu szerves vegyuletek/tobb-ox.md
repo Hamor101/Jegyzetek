@@ -38,3 +38,20 @@
 - Apoláris oldószerben oldódik
 - A nagyméretű karbonsavakat zsírsavaknak nevezzük
 [^1]: Olyan funkciós csoport, mely karbonil (C=O), ill. hidroxil (OH) csoportból áll
+
+## Gliceridek
+- A telítetlen karbonsavak olvadáspontja alacsonyabb mint a telítetteké:
+  - Sok telítetlen karbonsavat tartalmazó glicerid --> Folyadék
+  - Sok telített karbonsavat tartalmazó glicerid --> Szilárd
+- Folyékony Gliceridek --> Olajok
+- Szilárd gliceridek --> Zsírok
+- Sűrűségük kisebb mint a vízé
+- Olajok --> Elszíntelenítik a brómos vizet (az összes brómot megkötik)
+- Zsírok --> Halványítják a brómos vizet, de nem lesz színtelen
+
+## Szappanok
+- Nagy szénatomszámú karbonsavak kálium/nátrium sója
+- Előállítás: Zsírból vagy olajból
+- NaOH --> Kemény szappan
+- KaOH --> Lágy szappan
+- Vizes közegben ionokra disszociálnak

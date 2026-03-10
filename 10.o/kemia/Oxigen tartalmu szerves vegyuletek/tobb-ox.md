@@ -55,3 +55,15 @@
 - NaOH --> Kemény szappan
 - KaOH --> Lágy szappan
 - Vizes közegben ionokra disszociálnak
+- Amfipatikus --> Vízes közegben micellákat, lamellákat alakítanak
+### Lamella:
+- Az anionok egyes vastagságú réteget alakítanak ki a víz és a levegő határfelületén
+- Kevés szappannál alakul ki
+### Micella:
+- Sok szappan oldódása esetén az anionok nem férnek el a felszínen, így gömbszerű micellákat képeznek
+- A gömb felszíne poláris --> Hidrofil
+- Belseje apoláris --> Hidrofób
+### A szappan tisztító hatása
+- A micelláknak köszönhető
+- Az apoláris szennyeződés beleoldódik a micella belsejébe
+- Maga a micella vízzel eltávolítható

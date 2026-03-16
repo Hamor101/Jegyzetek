@@ -30,11 +30,21 @@
 - Típusai:
   - _Lineáris_ --> Mondatok `láncszerű kapcsolódása`, folyamatos `előrehaladás`
   - _Globális_ --> Mondatok feletti, a `teljes szöveget átfogó` erő
-- Eszközei:
+#### `Eszközei:`
   - Cím --> Előreutal, felidéz
   - Téma
   - Kulcsszavak --> Főnevek, melyek a témára utalnak, gyakran fordulnak elő
   - Izotópok --> Ugyanarra a valóságdarabra utaló kifejezések
+  - Tartalmi-logikai kapcsolatok
+    - Térbeli, időbeli kapcsolatok
+    - Ellentétes, Kapcsolatos, ok-okozati, rész-egész, általános-konkrét stb. viszonyok
+  - Aktuális mondattagolás:
+    - ismert és új információk összekapcsolása
+    - Téma: Ismerst közléselem, amelyről állítunk valamit
+    - Réma: Új információ, amely következő mondatokban témaként jelenik meg
+  - Szövegfókusz & szövegtopik
+    - Szövegbeli téma, egy szövegrészben hosszabban is jelen lehet
+    - Szövegfókusz: új információ, a szövegrészlet kiemelkedő eleme
 
 ## 
 
@@ -49,11 +59,9 @@
   - Kód (nyelv)
   - Csatorna
   - Közös előismeretek
-- `Kommunikációs funkciók` is meghatározzák a szövegértést és a szövegalkozást
+- `Kommunikációs funkciók` is meghatározzák a szövegértést és a szövegalkozást:
   - Tájékoztatás, tájékozódás
   - Érzelemkifejezés
   - Felhívás
   - Kapcsolatteremtés, -tartás, -zárás
   - Metanyelvi funkció
-  - Esztétikai funkció
-

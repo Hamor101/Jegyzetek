@@ -39,4 +39,9 @@
 - Characterization of royal power:
   - Limited
   - The king `cannot make laws`, only `decrees according to the law`
-- THe french constitutional monarchy `collapsed after 1 year`
+- The french constitutional monarchy `collapsed after 1 year`
+
+## Causes for the fall of the constitutional monarchy
+- Louis XVI's escape attempt --> Destroyed public trust
+- 1792 --> War with Prussia & Austria
+- 

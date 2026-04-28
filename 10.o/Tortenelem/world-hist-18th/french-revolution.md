@@ -41,7 +41,36 @@
   - The king `cannot make laws`, only `decrees according to the law`
 - The french constitutional monarchy `collapsed after 1 year`
 
-## Causes for the fall of the constitutional monarchy
+## <span style="color:#fabd2f">Causes for the fall of the constitutional monarchy
 - Louis XVI's escape attempt --> Destroyed public trust
 - 1792 --> War with Prussia & Austria
-- 
+
+## <span style="color:#fabd2f">1792-3 Girondist government
+- New parliament: `National Convention`
+- Achievement: `Nationalism`
+- `Nationalism` united the people of France against the invading armies on their territory
+- National Convention voted on the execution of Louis XVI (for treason)
+  - Louis XVI was executed by guillotine
+### <span style="color:#fabd2f">Causes of its fall
+- Military defeats
+- Conscription --> Revolts
+
+## <span style="color:#fabd2f">1793-4 Jacobin government
+- Introduced `dictatorship`
+- it also fell after around 1 year
+- Reasons for fall:
+  - Internal divisions among the jacobins
+  - Poor economic management (price maximums meant no one wanted to sell their goods)
+  - Summary trials & executions angered the public
+  - Military victories stopping the 1st coalition --> No more excuses for the low standard of living
+
+
+## <span style="color:#fabd2f"> 1795-9 Directory
+- `Moderate, republican` government
+- Restored law & order:
+  - Reestablished parliament (via elections)
+  - Restored the courts
+  - restored freedoms (freedom of speech/the press)
+- Continued the war -
+  - Army leaders were important --> `NAPOLEON` (military genius)
+  - Inflation --> Starvation --> Revolts --> Put down by the military

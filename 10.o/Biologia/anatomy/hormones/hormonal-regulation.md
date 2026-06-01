@@ -82,3 +82,17 @@
   - Produces Glucocorticoids
 - Medulla:
   - Produces epinephrine
+
+###<span style="color:#fabd2f"> Pituitary gland
+- Close contact with the `hypothalamus`
+- Posterior lobe --> Only `stores hormones` (Antidiuretic Hormone, Oxytocin)
+- Oxytocin --> Responsible for pro-social behaviour
+- Produces many hormones, inlcuding GH (Growth horomone)
+- Growth hormone:
+  - Increases blood sugar
+  - affects metabolism
+- Anterior lobe influences:
+  - Parathyroid
+  - Pancreas
+  - Adrenal medulla
+  - Outermost layer of the adrenal cortex

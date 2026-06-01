@@ -11,7 +11,7 @@
   - Equality before the law
   - The only limit to individual liberty is the liberty of another person
 ### Liberal ideal of government
-- Constitution
+- Constitution + parliament
 - Free elections
 
 ## <span style="color:#fabd2f">Nationalism

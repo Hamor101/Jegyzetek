@@ -35,4 +35,9 @@
 - Humans have `unlimited needs` <--> `Limited resources`
 - Basic issue of economics
   - "How can we use limited resources to satisfy the maximum level of unlimited needs & wants?"
-- 
+
+### Choice
+- Impossible to fulfill all human needs  -
+  - We must make `choices` about sacrificing one thing so that we can have another
+- `Opportunity cost`:
+  - The thing that has to be given up when making a choice

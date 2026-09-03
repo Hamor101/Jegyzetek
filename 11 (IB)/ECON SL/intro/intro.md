@@ -8,7 +8,7 @@
 ### <span style="color:#fabd2f"> Why is economics a social science?
 - `Social` because it is concerned with understanding the way actors[^1] react to `changes in certain factors`
 - `Science` because it is systematic with its own approaches and methods to calculation and measurement --> impersonal
-
+[^1]: e.g: households, businesses, industries
 ## <span style="color:#fabd2f"> Microeconomics v. Macroeconomics
 
 - Key difference: The level at which we examine actors (individual <--> collective)

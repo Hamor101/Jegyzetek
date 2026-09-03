@@ -6,4 +6,3 @@
 - Habsburgs imposed high taxes
 - Hungarian nobles couldn't easily reclaim their lands
 - Hungarians lost their right to resistance 
-

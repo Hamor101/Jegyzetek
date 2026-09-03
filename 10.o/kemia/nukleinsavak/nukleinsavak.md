@@ -15,3 +15,5 @@
 |Nukleotidok szama|Millios/Milliardos nagysagrend||
 |Pentoz|Dezoxiriboz|Riboz|
 |Nitrogen tartalmu bazis|U,G,A,C|T,G,A,C|
+
+- RNS-ben is kialakulhatnak bázispárok (kétszálú szakaszok)

@@ -5,7 +5,7 @@
   - `Numbers`
     - Integers --> Regular [decimal to binary](number-systems.md/#converting-decimal-to-binary) conversion, but pad with leading zeroes[^1] for a specified length (8, 16, 32, 64, 128 bits)[^2]
     - Non-integers
-      - Float (can be 32/64 bits long) --> Uses the normal form (2.5*10<sup>6</sup>), except in binary. It stores (in one number): the sign (+/-), the mantissa, and the exponent
+      - Float (can be 32/64 bits long) --> Uses scientific notation (2.5*10<sup>6</sup>), but in binary. It stores (in one number): the sign (+/-), the mantissa, and the exponent
   - `Characters` (text)
   - `Colors`
   - `Sound`

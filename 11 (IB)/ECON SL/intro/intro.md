@@ -32,6 +32,7 @@
 ## <span style="color:#fabd2f">9 Core economic concepts
 
 ### <span style="color:#fabd2f">Scarcity
+- The limited availability 
 - Humans have `unlimited needs` <--> `Limited resources`
 - Basic issue of economics
   - "How can we use limited resources to satisfy the maximum level of unlimited needs & wants?"

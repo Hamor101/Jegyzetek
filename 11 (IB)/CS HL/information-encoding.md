@@ -20,7 +20,7 @@
   - A better method is needed
 ### <span style="color:#fabd2f">Two's complement (the better method)
 - If positive: simply convert to binary, and done :)
-  - BUT make sure the `leftmost bit`[^4] is 0 (use padding, if needed)
+  - BUT make sure the `leftmost bit`[^4] is 0 (use padding, if needed), because negative numbers must start with 1
 - If negative:
     1. Convert to binary (-12 --> 1100 --> 00001100)
     2. Reverse each bit (00001100 --> 11110011) --> one's complement

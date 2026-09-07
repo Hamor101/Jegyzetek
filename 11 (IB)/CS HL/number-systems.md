@@ -17,13 +17,13 @@
   - Each digit can have 10 different values (0...9)
   - Local values are multiplied by powers of ten --> ones, tens, hundreds, etc.
     - e.g 156 = 1 * 10<sup>2</sup> + 5 * 10<sup>1</sup> + 6 * 10<sup>0</sup>
-- Decimal system:
+- Binary system:
   - Each digit can have `two different values` (0,1)
   - Difference between digits: powers of two
-  - 
+
 ### <span style="color:#fabd2f">Hexadecimal system
 - Each digit can `have 16 values` (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
-- 
+  
 ### <span style="color:#fabd2f">Converting binary to decimal
 1. Write each digit as a multiple of a power of two, based on its position
 2. Sum them up

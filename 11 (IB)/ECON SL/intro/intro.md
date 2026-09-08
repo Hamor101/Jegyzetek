@@ -108,4 +108,3 @@
    - `Interdependence`
 10. The government introduces restrictions on water consumption
     - `Intervention`
-#

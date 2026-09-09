@@ -10,6 +10,7 @@
   - `Colors`
   - `Sound`
   - `Videos`
+- General storage rule: n bits --> 2<sup>n</sup> values can be stored
 
 ## <span style="color:#fabd2f">Representing negative numbers, two's complement
 - Regular binary numbers are good at representing positive numbers

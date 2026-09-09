@@ -2,6 +2,16 @@
 
 # <span style="color:#fabd2f">Number systems
 
+## Units of data
+- Bit --> Basic unit of data, a `single binary digit`, one or zero
+- Byte --> 8 bits
+- KiloBytes --> 2<sup>10</sup> bytes --> 8*1024 bits
+- MegaBytes --> 2<sup>10</sup> KiloBytes --> 8*1024\*1024
+- GigaBytes --> 2<sup>10</sup> MB
+- TeraBytes --> 2<sup>10</sup> GB
+- PetaBytes --> 2<sup>10</sup> TB
+- ExaBytes ‎ --> 2<sup>10</sup> PB
+
 ## Data vs. Information
 - `Data`:
   - Raw

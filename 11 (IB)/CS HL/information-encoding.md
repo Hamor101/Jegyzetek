@@ -12,6 +12,7 @@
   - `Videos`
 - General storage rule: n bits --> 2<sup>n</sup> values can be stored
 
+# <span style="color:#fabd2f">Integers
 ## <span style="color:#fabd2f">Representing negative numbers, two's complement
 - Regular binary numbers are good at representing positive numbers
 - But how to represent negative numbers?
@@ -32,3 +33,39 @@
 [^2]: This is called word length, it determines the size of one single compartment/number in memory
 [^3]:The sign bit is 0 for positive numbers, 1 for negative
 [^4]: Leftmost bit is the bit on the left, sometimes also called 'the most significant bit'
+
+# <span style="color:#fabd2f">Characters, strings
+## <span style="color:#fabd2f">Characters
+- Characters can be encoded using `code tables`
+- Code tables define which number 'means' which letter
+- Example: the [ASCII table](https://catonmat.net/images/ascii-cheat-sheet.png) -- Contains character codes for:
+  - Mathematical symbols
+  - Punctuation symbols
+  - Characters of the english alphabet (upper- and lowercase) --> No other alphabets supported :(
+  - Special characters (space, carriage return, NULL, etc.)
+  - Some control characters
+### <span style="color:#fabd2f">Unicode & UTF-8
+- UTF-8: 8-32 bits of storage
+- Its first 128 characters are the `same as ASCII` for compatibility
+
+
+## <span style="color:#fabd2f">Strings
+- Called string because it is a string of characters
+- Contiguous in memory (the characters are stored after each other)
+- Null-terminated --> last character is a so-called NULL character, so the computer knows where the last character in a string is
+- E.g: nice
+  - `n` --> 0110 1110
+  - `i` --> 0110 1001
+  - `c` --> 0110 0011
+  - `e` --> 0110 0101
+
+# <span style="color:#fabd2f">Colors
+- RGB-encoding:
+  - intensity of each color component (red,green,blue) represented on 8-bits
+  - 1 pixel: 24 bits (8*3, because red, green, blue each need 8 bits)
+  - Usually represented with HEX-codes
+    - First two characters: How much red
+    - Middle two characters: How much green
+    - Last two characters: How much blue
+    - #FF00FF --> <span style="background-color:#ffffff"><span style="color:#ff00ff">‎ ■‎ </span></span>‎ Purple
+    - #000000 --> <span style="background-color:#ffffff"><span style="color:#000000">‎ ■‎ </span></span>‎ Black

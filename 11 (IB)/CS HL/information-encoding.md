@@ -69,3 +69,22 @@
     - Last two characters: How much blue
     - #FF00FF --> <span style="background-color:#ffffff"><span style="color:#ff00ff">‎ ■‎ </span></span>‎ Purple
     - #000000 --> <span style="background-color:#ffffff"><span style="color:#000000">‎ ■‎ </span></span>‎ Black
+
+# <span style="color:#fabd2f"> Sounds
+- Sound is a continous, analogue signal
+- Must be digitized
+- Sound must be processed quickly
+  - Specialized program is required to COde and DECode --> CODEC
+### <span style="color:#fabd2f">Temporal digitization: Sampling
+  - In a given amount of time, take X samples of sound
+  - e.g: 44kHz --> 44 000 samples per second
+
+### <span style="color:#fabd2f"> Volume digitization
+- 16-bits --> 2<sup>16</sup> different levels of volume
+
+# <span style="color:#fabd2f"> Video
+- basically a `sequence of images + sound`
+- Processing images and sound are both resource-intensive --> video CODEC needed
+- But even a codec may be too slow
+- Solution --> image keyframes:
+  - Storing the difference between frames instead of the entire frames

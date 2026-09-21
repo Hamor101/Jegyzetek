@@ -2,11 +2,11 @@
 
 # <span style="color:#fabd2f">Resource allocation
 - Deals with the following questions:
-    - WHAT to produce (what kind of production should resource be allocated to?)
+    - WHAT/HOW MUCH to produce (what kind of production should resource be allocated to?)
     - HOW to produce (what is the best way to allocate resources?)
       - `Technically efficient` production:
         - `Using less` scarce resources than other methods
-      - Economically efficient production:
+      - `Economically efficient` production:
         - `Making cheaper` products
     -  Distribution --> FOR WHOM to produce
        - Who can get our produced goods?

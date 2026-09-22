@@ -1,0 +1,36 @@
+## Group task
+- Efficiency:
+  - Should the government invest in creating more desalination plants?
+    - Yes as in the long term:
+      -  such machines can be used to secure water supply
+     - In the short term: Energy and money will need to be invested into research
+     
+  - Should certain industries be forced to use alternatives to water?
+    - Yes, as in the long term: the water available for essential uses will increase
+    - In the short term: the quality of goods may be reduced while industries get used to the restrictions
+  - Should the government subsidize research into new desalination technologies?
+    - In the short term: this will put financial stress on the government
+    - In the long term: such machines will have a large return on investment both in terms of use and in terms of export
+  - How should international monetary aid be distributed?
+    - it should be invested into industry to compensate for the temporary drop in economic output due to the industrial water restriction
+- Choice:
+  - Should water go to irrigation or domestic use?
+    - It should be split in such a way that all agricultural needs are met, but families will only need to minimally restrict their own water usage
+  - Should we restrict water for livestock?
+    - If yes: The food supply might be negatively affected
+    - If no: agricultural water use will be even greater
+  - Should we restrict water used for non-agricultural/non-drinking purposes? (e.g water parks, pools, etc.):
+    - If yes: quality of life for the average citizen may be reduced
+    - If not: water will be used on non-essential uses, contributing to the shortage
+  - Should we restict water use for industries?
+    - If we restrict water use without offering subsidies or alternatives, productivity and exports will be reduced
+- Change:
+  - What effects would the sale and installation of new desalination machines have?
+    - Would make the production of freshwater for drinking/irrigation easier
+    - would free up more water to be used for industry
+  - Should the price of water be increased to discourage non-essential use?
+    - If we wish to restrict non-essential water use, increasing its price for such uses may be a good idea
+  - Would the food supply be affected by reducing water used for livestock?
+    - Yes. But, this could be compensated for by importing more food
+  - How will the restriction on industrial water usage affect short-term exports?
+    - Short-term exports will drop, and the quality of exported goods may also be affected by a lack of water available for production

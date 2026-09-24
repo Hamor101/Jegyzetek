@@ -1,12 +1,14 @@
-# Oscar Wilde and Gothic fiction
+<span style="font-family:'cascadia code'">
 
-## What makes a good horror/ghost story?
+# <span style="color:#fabd2f">Oscar Wilde and Gothic fiction
+
+## <span style="color:#fabd2f">What makes a good horror/ghost story?
 - Tension in the story
 - Characters' lack of control
 - Should be relatable 
 
 
-## Characteristics Gothic fiction
+## <span style="color:#fabd2f">Characteristics Gothic fiction
 - Religious imagery/aspects
 - Typical settings:
   - Castles
@@ -26,10 +28,10 @@
   - Bram Stoker: Dracula
 
 
-## Oscar Wilde (1854-1900)
+## <span style="color:#fabd2f">Oscar Wilde (1854-1900)
 - Irish playwright (only wrote one novel)
 - Followed the `Aesthetic movement`[^1] ("There's no such thing as a moral or immoral book, books are well-written or badly written, that is all")
-### His life
+### <span style="color:#fabd2f">His life
 - Born to professional parents
   - Father: Surgeon
   - Mother: Poet
@@ -38,12 +40,12 @@
 - 1884: Married Constance Lloyd
 - 1890: First publication of The Picture of Dorian Gray
 - Fell in love with Lord Alfred Douglas (much younger than him) --> Started living a double life --> Was imprisoned
-### 2-Year Imprisonment
+### <span style="color:#fabd2f">2-Year Imprisonment
 - Following his affair with Lord Alfred Douglas --> Tried for `sodomy`, convicted for `gross indecency`
 - Wrote poems while in jail
 - Released, spent his `last 2 years in paris`, shunned by society
 - Died: 46 years old
-### Important works
+### <span style="color:#fabd2f">Important works
 - The Happy Prince and Other Tales -- 1888
 - The Picture of Dorian Gray -- 1890, revised 1891
 

@@ -5,8 +5,9 @@
 - Demand can be graphed by a `demand curve`
 - The higher the `unit price` of a product, the lower the `quantity demanded`
 - Quantity demanded =/= Demand
-- 
+
 ![Demand-curve.png](demand-curve.png)
+- Here the `line itself` is what represents demand
 
 
 ## <span style="color:#fabd2f">Determinants of demand
@@ -15,7 +16,7 @@
 
 ### <span style="color:#fabd2f">Non-price determinants
 - Consumer preferences
-- [Price of related goods]()
+- [Price of related goods](#related-goods)
 - Income:
   - Normal goods: Higher income, higher consumption
   - Inferior goods: Higher income, lower consumption

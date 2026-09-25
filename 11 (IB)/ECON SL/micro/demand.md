@@ -1,43 +1,43 @@
 <span style="font-family:'cascadia code'">
 
-# Demand
-- Law of Demand:
-  - As unit price increases, the Quantity demanded falls
-  - As unit price decreases, the quantity demanded rises
-## Non-price determinants
+
+#  <span style="color:#fabd2f">Demand
+- Demand can be graphed by a `demand curve`
+- The higher the `unit price` of a product, the lower the `quantity demanded`
+- Quantity demanded =/= Demand
+- 
+![Demand-curve.png](demand-curve.png)
+
+
+## <span style="color:#fabd2f">Determinants of demand
+### <span style="color:#fabd2f">Price
+- Price `doesn't change the demand`, but the `quantity demanded` changes
+
+### <span style="color:#fabd2f">Non-price determinants
+- Consumer preferences
+- [Price of related goods]()
 - Income:
-  - `normal goods`: Higher income, higher consumption
-  - `inferior goods`: Higher income, lower consumption
-- Tastes, `preferences`
-- Change in `number of consumers`
-  - More consumers --> higher demand
-  - Fewer consumers --> Lower demand
-### Price of related Goods
-- Substitutes
+  - Normal goods: Higher income, higher consumption
+  - Inferior goods: Higher income, lower consumption
+- Number of consumers:
+  - More consumers: Higher demand
+  - Less consumers: Lower demand
+
+## <span style="color:#fabd2f">Related Goods
+### <span style="color:#fabd2f">Substitutes
+|x|Unit price|Quantity demanded|Demand|
+|-----|-----|-----|-----|
+|Good A|Increase|Decrease|--|
+|Good B|--|Increase|Increase|\
+
   - If Apple is a substitute for banana:
     - Higher price in apple --> Apple gets substituted for banana --> Higher consumption of bananas (at original price level)
-- Complementary products
-  - Tennis ball and tennis racket are complementary
-  - Rise in the price of tennis balls will cause lower consumption of tennis rackets
 
-# Supply
-- Law of Supply:
-  - As the price of a good increases, the quantity supplied over a given time increases
-  - 
+### <span style="color:#fabd2f">Complementary goods
+|x|Price|Quantity demanded|demand|
+|-|-|-|-|
+|Product A|Increase|Decrease|--|
+|Product B|--|--|Decrease|
 
-## Non-price factors in supply
-- Production costs:
-  - Higher production cost --> `Decrease` in supply
-- New technology --> `Increase` in supply
-- Change in number of firms --> `Increase` in supply
-- Government:
-    - subsidy --> `Increase` in supply
-    - increasing taxes --> `Decrease` in supply
-- External shock --> `Decrease` in supply
-- Expectations:
-  - Positive ("i expect the price to increase"):
-    - Short run --> `Decrease` in supply
-    - Long run --> `Increase` in supply
-  - Negative ("i expect the price to fall"):
-    - Short run --> `Increase`
-    - Long run --> `Decrease`
+- Change in price of `A` --> Lower `quantity demanded of A` --> Lower `demand` for B
+- Example: Tennis Ball and tennis racket

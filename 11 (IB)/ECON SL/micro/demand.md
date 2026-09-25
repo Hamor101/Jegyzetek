@@ -9,6 +9,8 @@
 ![Demand-curve.png](demand-curve.png)
 - Here the `line itself` is what represents demand
 
+## Change in demand
+
 
 ## <span style="color:#fabd2f">Determinants of demand
 ### <span style="color:#fabd2f">Price

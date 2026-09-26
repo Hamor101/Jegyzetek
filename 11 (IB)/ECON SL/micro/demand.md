@@ -6,7 +6,6 @@
 - The higher the `unit price` of a product, the lower the `quantity demanded`
 - Quantity demanded =/= Demand
 
-![Demand-curve.png](demand-curve.png)
 - Here the `line itself` is what represents demand
 
 ## Change in demand
@@ -14,7 +13,8 @@
 
 ## <span style="color:#fabd2f">Determinants of demand
 ### <span style="color:#fabd2f">Price
-- Price `doesn't change the demand`, but the `quantity demanded` changes
+- Price `doesn't change the demand`, but the `quantity demanded` changes --> Movement `along the demand line`
+![Demand curve](demand-curve-price-change.png)
 
 ### <span style="color:#fabd2f">Non-price determinants
 - Consumer preferences
@@ -25,6 +25,9 @@
 - Number of consumers:
   - More consumers: Higher demand
   - Less consumers: Lower demand
+
+![Demand curve](Change-in-demand.png)
+  - At the same price (P<sub>1</sub>) the Quantities demanded (Q<sub>D1</sub>,Q<sub>D2</sub>,Q<sub>D3</sub>) are different, `based on the demand`
 
 ## <span style="color:#fabd2f">Related Goods
 ### <span style="color:#fabd2f">Substitutes

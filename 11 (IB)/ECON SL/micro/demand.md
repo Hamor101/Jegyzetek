@@ -26,9 +26,9 @@
   - More consumers: Higher demand
   - Less consumers: Lower demand
 
-
-<center><img src=Change-in-demand.png></center>
-
+<p align="center">
+  <img src=Change-in-demand.png>
+</p>
 - At the same price (P<sub>1</sub>) the Quantities demanded (Q<sub>D1</sub>,Q<sub>D2</sub>,Q<sub>D3</sub>) are different, `based on the demand`
 
 ## <span style="color:#fabd2f">Related Goods

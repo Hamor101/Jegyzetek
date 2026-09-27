@@ -1,6 +1,6 @@
 <span style="font-family:'cascadia code'">
 
-# Islam (!!!MAKACHEV!!!)
+# Islam
 
 - Holy book is the **Quran**
 - Holy city is **Mecca**

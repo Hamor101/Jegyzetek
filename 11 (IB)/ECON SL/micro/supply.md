@@ -10,6 +10,7 @@
 ### <span style="color:#fabd2f"> Price
 - As price rises, the `quantity supplied` also rises
 - Supply itself doesn't change
+
 ![Supply Curve with change in price annotated](graphs/price-change-s-curve.png)
 
 ### <span style="color:#fabd2f">Non-price determinants

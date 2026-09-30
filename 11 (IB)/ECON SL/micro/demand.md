@@ -8,13 +8,11 @@
 
 - Here the `line itself` is what represents demand
 
-## Change in demand
-
 
 ## <span style="color:#fabd2f">Determinants of demand
 ### <span style="color:#fabd2f">Price
 - Price `doesn't change the demand`, but the `quantity demanded` changes --> Movement `along the demand line`
-![Demand curve](demand-curve-price-change.png)
+![Demand curve](graphs/demand-curve-price-change.png)
 
 ### <span style="color:#fabd2f">Non-price determinants
 - Consumer preferences
@@ -26,9 +24,7 @@
   - More consumers: Higher demand
   - Less consumers: Lower demand
 
-<div style="text-align:center">
-  <img src=Change-in-demand.png>
-</div>
+![Change in Demand curve](graphs/Change-in-demand.png)
 
 - At the same price (P<sub>1</sub>) the Quantities demanded (Q<sub>D1</sub>,Q<sub>D2</sub>,Q<sub>D3</sub>) are different, `based on the demand`
 

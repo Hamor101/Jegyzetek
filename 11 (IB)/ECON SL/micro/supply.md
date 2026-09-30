@@ -4,8 +4,15 @@
 - Law of Supply:
   - As the price of a good increases, the quantity supplied over a given time increases
   
+  ![Example supply curve](graphs/supply-curve.png)
 
-## <span style="color:#fabd2f">Non-price determinants
+## <span style="color:#fabd2f">Determinants of supply
+### <span style="color:#fabd2f"> Price
+- As price rises, the `quantity supplied` also rises
+- Supply itself doesn't change
+![Supply Curve with change in price annotated](graphs/price-change-s-curve.png)
+
+### <span style="color:#fabd2f">Non-price determinants
 - Production costs:
   - Higher production cost --> `Decrease` in supply
 - New technology --> `Increase` in supply
@@ -21,6 +28,8 @@
   - Negative ("i expect the price to fall"):
     - Short run --> `Increase`
     - Long run --> `Decrease`
+
+![Change in supply example](graphs/change-in-supply.png)
 
 ### <span style="color:#fabd2f">Competitive Supply
 - When two goods use the same supplies

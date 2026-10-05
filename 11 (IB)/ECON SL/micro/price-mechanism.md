@@ -13,7 +13,7 @@
 |Decrease|Surplus|<table><tr><td>Producer</td><td>Q<sub>s</sub>↓</td></tr><tr><td>Consumer</td><td>Q<sub>d</sub>↑</td></tr></table>|Less resources toward product A|
 
 
-## How to decide who gets the product?
+## <span style="color:#fabd2f">How to decide who gets the product?
 
 ### Price-rationing
 - People who can pay for a product can buy it

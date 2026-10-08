@@ -4,12 +4,7 @@
 - The `responsiveness` of Q<sub>d</sub> or Q<sub>s</sub> to `changes in their determinants`[^1]
 - A quantity can be `elastic` or `inelastic`
 ## <span style="color:#fabd2f">Factors in elasticity
-
-- Fraction of income:
-  - What fraction of my monthly income do I spend on a product?
-
-
-|x|More elasticity|Less elasticity|
+|Factor|More elasticity|Less elasticity|
 |-|-|-|
 |**Substitutes**|Many|Few|
 |**Time window**|Long-term|Short-term|
@@ -18,8 +13,8 @@
 
 ## Price-elasticity of Demand (PED)
 - Can be thought of as the `reciptrocal of the slope of the demand curve`
-- The absolute value of the ratio of percent change in quantity demanded to the percent change in price
-    > PED = |% ΔQ<sub>d</sub> / % ΔP|
+- The absolute value of the ratio of `percent change` in quantity demanded to the percent change in price
+    > PED = |ΔQ<sub>d</sub>/ΔP|
 
 |x|PED||
 |-|-|-|
@@ -31,7 +26,7 @@
 
 ## Income(yield)-elasticity of demand (YED)
 - How does the demand change wheen the income changes?
-> YED = ΔQ<sub>d</sub>/ΔIncome
+    > YED = ΔQ<sub>d</sub>/ΔIncome
 
 |x|YED|
 |-|-|

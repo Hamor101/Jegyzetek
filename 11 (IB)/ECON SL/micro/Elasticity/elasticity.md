@@ -11,7 +11,7 @@
 |**Fraction of salary**|Small fraction|Large fraction|
 |**Necessities**|Luxury items|Necessary items|
 
-## Price-elasticity of Demand (PED)
+## <span style="color:#fabd2f">Price-elasticity of Demand (PED)
 - Can be thought of as the `reciptrocal of the slope of the demand curve`
 - The absolute value of the ratio of `percent change` in quantity demanded to the percent change in price
     > PED = |ΔQ<sub>d</sub>/ΔP|
@@ -24,40 +24,30 @@
 |>1|Elastic|
 |∞|Perfectly elastic|
 
-## Income(yield)-elasticity of demand (YED)
+# <span style="color:#fabd2f">Income(yield)-elasticity of demand (YED)
 - How does the demand change wheen the income changes?
-    > YED = ΔQ<sub>d</sub>/ΔIncome
+    > YED = ΔQ<sub>d</sub>/ΔReal Income
+    - Q<sub>d</sub> --> The % change in the quantity demanded
+    - Real income --> The % change in `real income`[^2]
+- Not constant:
+  - Good A's `YED can change` with different incomes
+- Useful for:
+  - Deciding `what kind` of product to produce (Inferior/normal/luxury)
+ 
+[^2]: Real income: Income which includes inflation. If information about inflation is not given, we just use the income
 
 |x|YED|
 |-|-|
-|0-1|Necessity|
-|>1|Luxury|
 |<0|Inferior good|
+|<1|Necessity|
+|>1|Luxury|
 
-
-## Practice Excersize
-- Firm reports Q = 200, P = 4$, PED = |-2|
-### Calculate total revenue
-- TR = P * Q
-- TR = 4 * 200 = 800$
-### Calculate total revenue when ΔP = +20%
-- P = 4 + 4 * 0.2 = 4.8
-- PED = |ΔQ/ΔP|
-- |-2| = |ΔQ/0.2|
-- |-0.4| = ΔQ
-- ΔQ = -40% --> Q = 200 - 200*0.4 = 120
-- TR = P * Q
-- TR = 4.8 * 120 = 576$
-
-## Practice excersize 2 (Pizzas)
-- P = 16$, Q = 100
-- P = 12$, Q = 120
-- PED = ?
-- ΔP = 12/16 = 0.75 --> -25%
-- ΔQ = 120/100 = 1.2 --> +20%
-- PED = |20%/-25%| = 0.8
-- Pizzas are `price-inelasic`
-
+## <span style="color:#fabd2f">Engel-curve
+- Used to `illustrate the YED`
+- Parts:
+  - X-axis: Q
+  - Y-axis: Income
+  - Line: Slope = YED
 
 
 [^1]: E.g: 1% ΔP -> ?% ΔQ<sub>d</sub>

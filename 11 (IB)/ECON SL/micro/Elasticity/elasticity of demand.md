@@ -16,7 +16,7 @@
 - The absolute value of the ratio of `percent change` in quantity demanded to the percent change in price
     > PED = |ΔQ<sub>d</sub>/ΔP|
 
-|x|PED||
+|PED|x||
 |-|-|-|
 |0|Perfectly inelastic|ΔQ<sub>d</sub> = 0|
 |0-1|Inelastic|ΔQ<sub>d</sub> < ΔP|

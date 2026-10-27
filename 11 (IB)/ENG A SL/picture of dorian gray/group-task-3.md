@@ -9,12 +9,12 @@
 - He `could not have known` that Dorian was going to kill him
 
 - Kriszti:
-  - Think Basil and Dorian drifted apart, not close friends anymore
+  - Thinks Basil and Dorian drifted apart, not close friends anymore
   - She would not have confronted Dorian in that manner
   - Thinks Basil should've moved on in 18 years
 - Eszti:
   - Thinks that Basil was less aware of the things Dorian has done
-  - Cognizant of Dorian's action's she would not have done the same thing
+  - Cognizant of Dorian's actions she would not have done the same thing
 - Bernát:
   - Would not have confronted him after 18 years of distance
 
@@ -49,9 +49,9 @@
 - Bernát:
 
 ## Dorian's addictions are mentioned in chapter 15. How does the theme of addiction add to our understanding of the character
-- His opium addiction is fitting to his character
+- His opium addiction is befitting character
 - His addictions might have been caused by the fact that for 30-40 years he lived a completely comfortable life, numbed by pleasure
-- He couldn't handle the weight of his actions and his consciensce without substances
+- He couldn't handle the weight of his actions and his conscience without substances
 
 ## Find examples of Gothic Imagery in these chapters. How do they contribute to the meaning
 - The murder itself with a knife

@@ -10,8 +10,4 @@
 # Arguments are written between the parentheses ()
 
 print("Hello, World!") # Here "Hello, World!" is the argument that the print() function takes
-
-
-###############################################################
-# Every modern programming language has _keywords_.
-# Keywords are special 
+ 

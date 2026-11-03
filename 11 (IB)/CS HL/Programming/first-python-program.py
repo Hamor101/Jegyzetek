@@ -9,5 +9,4 @@
 # We have to provide our text to print() as an _argument_
 # Arguments are written between the parentheses ()
 
-print("Hello, World!") # Here "Hello, World!" is the argument that the print() function takes
- 
+print("Hello World!") # Here "Hello World!" is the argument that the print() function takes.

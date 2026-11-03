@@ -33,4 +33,3 @@
 - High memory usage (because of flexible data types)
 - Global Interpreter Lock --> makes parallelism difficult
 - Runtime errors --> Weakly-typed nature causes runtime errors often
-- 

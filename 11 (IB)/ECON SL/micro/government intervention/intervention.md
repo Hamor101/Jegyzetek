@@ -70,7 +70,7 @@
   - `Underallocation of resources`
     - Results in underproduction compared to the optimum
     - Society is worse off
-- Usually a bad idea, but sounds good for `political campaigns`
+- Usually a bad idea, but works well for `political campaigns`
 
 ![price ceiling graph](price_ceiling.webp)
 - Consequences for stakeholders:
@@ -78,12 +78,6 @@
   - Producers : Worse off, sell less at lower price
   - Workers : Worse off, production firms likely to downsize (creates unemployment)
   - Government : Short term gain (popularity), long term loss (unemployment, less tax income)
-
-
-- Are rental controls effective in areas of high demand for housing?
-  - 
-
-- Are there alternative policies which might be effective in improving affordability of housing --> Just build more houses bro
 
 
 [^1]: When market optimum and social optimum differ (market produces too much or too little of a good compared to what would be socially desirable)

@@ -1,11 +1,9 @@
-<span style="font-family:'cascadia code'">
+# Liza Donnelly
 
-# <span style="color:#fabd2f">Liza Donnelly
-
-## <span style="color:#fabd2f">Picture interpretation task
+## Picture interpretation task
 - This cartoon depicts women holding the globe above their heads. It is reminiscent of the greek myth of Atlas, who is burdened with holding the entire world on his back. In this cartoon he is replaced by several women doing the same job. Through this visual, the artist might wish to convey that they feel the world is heavily supported by women, without their work being noticed too often. The women appear to be from various cultural backgrounds, which might represent that though there exist a lot of cultures, the truth of women taking a supporting role holds in most of them. 
 
-## <span style="color:#fabd2f">Picture interpretation part 2
+## Picture interpretation part 2
 - People:
   - There are two young girls in the picture
   - The children are playing with dolls, while talking to each other
@@ -26,3 +24,57 @@
 - Agreement:
   - Alexey: Doesn't think the issue is as extreme as depicted in the picture
   - Dani: Thinks the dichotomy is not as extreme in modern times and much more choice for women
+
+## Picture interpretation part 3
+
+- People:
+  - We see a parent
+  - We see their child
+  - They're building/have built a snowman
+  - Set in a garden, at wintertime
+  - It's snowing
+  - The parent is trying to put a hat on the snowman
+- Items:
+  - Shovel --> Probably was used to build the snowman, symbolizes winter 
+  - Trees without leaves --> Signals that it's winter
+  - Hat  --> Symbolizes masculinity/masculine roles
+- Technique:
+  - Nothing exaggerated,
+- Issue:
+  - Gender-roles/how people view masculinity and femininity
+  - Fashion of genders
+- Humor technique:
+  - Situational irony --> Normally, a snowman wouldn't talk/object to the way it gets dressed up
+- Purpose/perspective:
+  - The artist draws attention to how people view particular pieces of clothing, whether they are masculine or feminine, and about how people expect certain genders to dress
+  - The humor comes from the fact that even a normally inanimate snowman is concerned about whether it will be perceived as masculine because of the hat
+- Opinions:
+  - Beni:
+    - There are certain items of clothing that are viewed traditionally as masculine/feminine, but these norms are always changing
+
+## Picture interpretation part 3
+
+- People:
+  - We can see two children playing in a sandbox
+  - Further away we can see a parent-figure reading a magazine
+  - The whole comic is set in a park
+- Items:
+  - Truck --> Central item of the comic
+  - Bucket for sand --> Represents that the children are playing
+  - Magazine --> Distraction/boredom --> the parent is waiting for the kids to finish playing
+- Artist's technique:
+  - No charicature included
+  - Style is mainly iconic
+- Issue:
+  - Gender norms/roles
+  - The truck is seen as a traditonally masculine toy
+  - The girl says that she doesn't think that it's true that the truck is only for boys
+  - Highlights that children are more innocent of the gender roles in society --> They don't see the truck as a toy for boys, just a toy
+- Humor technique:
+  - No particular technique of humor used
+  - The truck serves as a metaphor for gender roles
+- Purpose/perspective:
+  - The artist wants to highlight that we shouldn't categorize things based on what gender that particular object is associated with
+  - We shouldn't view things are particularly more masculine/feminine --> people should be allowed to like what they like
+- Opinions:
+  - We both agreed with the overall message of the comic

@@ -1,8 +1,8 @@
 <span style="font-family:'cascadia code'">
 
-# <span style="color:#fabd2f">Cartoons
+# Cartoons
 
-## <span style="color:#fabd2f">Cartoon analysis
+## Cartoon analysis
 - Issue --> What is the topic/cultural issue?
 - Message --> What does the cartoonist want to convey?
 - Evidence --> Significant visual/verbal details

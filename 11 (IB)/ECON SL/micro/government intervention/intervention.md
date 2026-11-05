@@ -52,32 +52,7 @@
 - Direct provision
 - Command & control
 
-## Price controls
-- Setting `price floor` or `price ceiling` for products
-- Causes `market disequilibrium` (shortage/surplus), that `market forces can not correct`
 
-### <span style="color:#fabd2f">Price ceiling (maximum price)
-- Government sets a maximum price for a product
-- Consequences:
-  - `Creates shortages`
-  - `Creates underground (black) markets`:
-    - Markets where transactions are not recorded --> No tax revenue
-    - Consumers who can pay more will be encouraged to use these markets
-  - `Non-price rationing mechanisms:`
-    - First come, first serve
-    - Coupons
-    - Favouritism
-  - `Underallocation of resources`
-    - Results in underproduction compared to the optimum
-    - Society is worse off
-- Usually a bad idea, but works well for `political campaigns`
-
-![price ceiling graph](price_ceiling.webp)
-- Consequences for stakeholders:
-  - Consumers : Partly gain, partly lose
-  - Producers : Worse off, sell less at lower price
-  - Workers : Worse off, production firms likely to downsize (creates unemployment)
-  - Government : Short term gain (popularity), long term loss (unemployment, less tax income)
 
 
 [^1]: When market optimum and social optimum differ (market produces too much or too little of a good compared to what would be socially desirable)

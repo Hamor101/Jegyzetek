@@ -39,7 +39,9 @@ _ = 1               # and this
 ```
 ### Giving values to variables
 - You can give a variable a value like this:
+``` py
 x = "Bob"
+```
 - Here, x is the variable name, and "bob" is the `value`
 - The "=" sign is called the `assignment operator`, because it is used to `assign a value to something`
 - We can also do this:

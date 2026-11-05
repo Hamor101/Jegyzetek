@@ -15,7 +15,7 @@
 ```py
 print("Hello world!")
 ```
-### Comments
+## Comments
 - Comments are written after "#"
 - They can be used to `explain your code` to someone reading it
 - This means comments are `ignored when your program is running`, they are only meant for humans to read

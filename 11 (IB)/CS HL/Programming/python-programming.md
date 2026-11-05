@@ -61,9 +61,8 @@ x = 5.5             # Floating-point number (float)
 x = "Bob"           # String --> A string of characters
 x = True            # Boolean variable --> Can only have 2 values (True, False)
 x = [1,2,3,4,5]     # List --> Can store multiple items of any data type
-```
-
 # Btw, there are many more data types, these are just the basic ones that are useful for now
+```
 - If we want to know the data type of a variable, we can use the `type()` function
 - This function takes the `variable's name` as its argument
 - So, for x it looks like this:

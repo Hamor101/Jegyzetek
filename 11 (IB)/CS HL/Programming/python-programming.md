@@ -2,7 +2,7 @@
 
 # Python programming
 - Python programs are written inside of files whose names end with ".py"
-- You can check the [first-python-program.py](first-python-program.py) file to see/run the code written in this file
+- For example, [first-python-program.py](first-python-program.py) is a python file
 
 ### Program execution
 - Lines of code are executed one after the other, from `top to bottom`
@@ -58,6 +58,7 @@ x = 5
 ``` py
 x = 5               # Integer (int)
 x = 5.5             # Floating-point number (float)
+x = 'A'             # Char (a single character)
 x = "Bob"           # String --> A string of characters
 x = True            # Boolean variable --> Can only have 2 values (True, False)
 x = [1,2,3,4,5]     # List --> Can store multiple items of any data type
@@ -69,7 +70,7 @@ x = [1,2,3,4,5]     # List --> Can store multiple items of any data type
 ``` py
 type(x)     # This checks the data type of x
 ```
-- Right now, the type of x is `list`, because the last value we `assigned` to x was \[1,2,3,4,5\]
+- Right now, the type of x is `list`, because the last value we `assigned` to x was \[1,2,3,4,5\] (see the code above this)
 ### Printing types and variables
 - _print()_ can take many types of arguments, not just text
 - if we give _print()_ the name of a variable, it will print the `value` of that variable:

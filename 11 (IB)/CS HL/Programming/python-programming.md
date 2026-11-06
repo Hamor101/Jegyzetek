@@ -2,7 +2,7 @@
 
 # Python programming
 - Python programs are written inside of files whose names end with ".py"
-- For example, [first-python-program.py](first-python-program.py) is a python file
+- For example, [first-python-program.py]("python files"/first-python-program.py) is a python file
 
 ### Program execution
 - Lines of code are executed one after the other, from `top to bottom`

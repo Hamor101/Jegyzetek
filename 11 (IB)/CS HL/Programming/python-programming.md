@@ -2,7 +2,7 @@
 
 # Python programming
 - Python programs are written inside of files whose names end with ".py"
-- For example, [first-python-program.py]("python files"/first-python-program.py) is a python file
+- For example, [first-python-file.py](python_files/first-python-file.py) is a python file
 
 ### Program execution
 - Lines of code are executed one after the other, from `top to bottom`
@@ -79,3 +79,27 @@ print(x)    # This will print '[1,2,3,4,5]' to the screen
 x = "Hello World!"
 print(x)    # This will print "Hello World!"
 ```
+- We can also give `print()` the output of `type()`:
+- We can do this in 2 ways
+- 1:
+    ```py
+    x = "Hello World"
+    y = type(x)
+    print(y)
+    ```
+- 2:
+    ```py
+    x = "Hello World"
+    print(type(x))
+    ```
+- These two pieces of code `do the same thing`
+
+### Changing the type
+- Sometimes, we want to convert a data type into another
+- E.g: 
+  - a string --> an integer
+  - a float --> an integer
+  - an integer --> a string
+- Changing the data type is called `casting`
+- Example:
+  - Write a program

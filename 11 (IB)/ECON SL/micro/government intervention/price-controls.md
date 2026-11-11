@@ -1,3 +1,5 @@
+<span style="font-family:'cascadia code'">
+
 # <span style="color:#fabd2f"> Price controls
 - Setting `price floor` or `price ceiling` for products
 - Causes `market disequilibrium` (shortage/surplus), that `market forces can not correct`
@@ -56,11 +58,11 @@
   - `Global misallocation of resources`
 - Price floors cause `high-cost producers to produce more`, and `low-cost producers to produce less`
 
-## Price floor on the labour market (minimum wage)
+## <span style="color:#fabd2f">Price floor on the labour market (minimum wage)
 - Aim: Protect unskilled workers to ensure better standards of living
 - Higher wage --> Lower demand for labour --> Labour surplus = unemployment (in theory)
 
-## Case study: Does the minimum wage create unemployment
+## <span style="color:#fabd2f">Case study: Does the minimum wage create unemployment
 - Traditional belief among economists: Minimum wage causes unemployment
 - 90% of countries have a minimum wage
 - First to introduce minimum wage: New Zealand
@@ -73,11 +75,10 @@
     - Companies can offer wages `below market rate` --> Introduction of minimum wage didn't lead to redundancy, because wages were already below market rate
 - Higher minimum wages --> Lower working hours per worker
 - BUT Workers are able to find other jobs at the same time
-    - 
 
 [^1]: One buyer, many sellers
 
-## Case study: Price floor to discourage alcohol overconsumption
+## <span style="color:#fabd2f">Case study: Price floor to discourage alcohol overconsumption
 ### Problems:
 - Alcohol is a demerit good that is also addictive --> Inelastic PED --> Higher price, small decline in Qd
   - Excessive drinking (=> Overconsumption):

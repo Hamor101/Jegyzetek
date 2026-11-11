@@ -57,9 +57,9 @@
 - People:
   - We can see two children playing in a sandbox
   - Further away we can see a parent-figure reading a magazine
-  - The whole comic is set in a park
+  - The whole cartoon is set in a park
 - Items:
-  - Truck --> Central item of the comic
+  - Truck --> Central item of the cartoon
   - Bucket for sand --> Represents that the children are playing
   - Magazine --> Distraction/boredom --> the parent is waiting for the kids to finish playing
 - Artist's technique:
@@ -77,4 +77,20 @@
   - The artist wants to highlight that we shouldn't categorize things based on what gender that particular object is associated with
   - We shouldn't view things are particularly more masculine/feminine --> people should be allowed to like what they like
 - Opinions:
-  - We both agreed with the overall message of the comic
+  - We both agreed with the overall message of the cartoon
+
+
+
+- The author used humor to get her point accross about the kind of mental preparation women have to do before going out
+- Perhaps the author wants to provoke thoughts in the reader about why a woman has to go through such a 'checklist' instead of just not being raped
+- The thought bubbles all being in regard to something being "too big/much" or "too short/not enought" implying that there isn't actually a "correct" amount of these things
+
+
+# How does the representation of women affect the perspective of the reader
+- The woman in the cartoon looks to be dressed up for a night out, but looks very concerned
+- Used as a tool to help even readers who have never had to think about such issued to understand what it might be like to have to mentally prepare for these things
+- Used as a tool to provoke thought in the viewer
+- The way in which the woman is drawn in itself can affect how a reader perceives it
+# How does the reader's perspective affect the reading of the author's representation of women?
+- If the reader has preconcieved notions about the subject matter of the cartoon, they might find the representation to be exaggerated
+- Based on the reader's preconcieved notion, they can find it either exaggerated or realistic/agreeable

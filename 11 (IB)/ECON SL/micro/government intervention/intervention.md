@@ -3,6 +3,7 @@
 # <span style="color:#fabd2f"> Government intervention
 - What is Government intervention?
   > When the government artificially creates a market inequilibrium
+- Note: intervention `ALWAYS causes some welfare-loss`
 
 ## <span style="color:#fabd2f">Functions of a government
 

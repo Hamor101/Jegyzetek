@@ -9,13 +9,13 @@
   - Excise tax (tobacco, gas, alcohol)
   - Sales tax (VAT)
 
-## Reasons for imposing indirect taxes
+## <span style="color:#fabd2f">Reasons for imposing indirect taxes
 - Source of `government revenue`
 - Discourage consumption of `demerit goods`
 - Redistribute income
 - Improve resource allocation --> Encourage/discourage production
 
-## Types of indirect tax
+## <span style="color:#fabd2f">Types of indirect tax
 ### Specific tax
 - A fixed amount of tax per unit
 - Tax paid `doesn't change with price`
@@ -43,3 +43,6 @@
 - P<sub>e</sub> --> P<sub>p</sub>: Lower Producer surplus
 ### Government:
 - Tax revenue: Q<sub>1</sub>*(P<sub>c</sub> - P<sub>p</sub>)
+### Welfare loss:
+1. Less output (only Q<sub>1</sub> instead of Q<sub>e</sub>) --> People are `excluded from consumption` --> Loss to society
+2. `Underallocation` of resources to production

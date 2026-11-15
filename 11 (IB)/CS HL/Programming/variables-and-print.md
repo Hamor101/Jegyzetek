@@ -70,6 +70,10 @@ x = [1,2,3,4,5]     # List --> Can store multiple items of any data type
 ``` py
 type(x)     # This checks the data type of x
 ```
+- If we actually want to see the output (return value) of the `type()` function, we have to use `print()`:
+```py
+print(type(x))
+```
 - Right now, the type of x is `list`, because the last value we `assigned` to x was \[1,2,3,4,5\] (see the code above this)
 ### Printing types and variables
 - _print()_ can take many types of arguments, not just text
@@ -101,5 +105,14 @@ print(x)    # This will print "Hello World!"
   - a float --> an integer
   - an integer --> a string
 - Changing the data type is called `casting`
-- Example:
-  - Write a program
+- Some important functions for casting are:
+- ```py
+    str(x)      # Converts x to a string
+    int(x)      # Converts x to an integer (int)
+    float(x)    # Converts x to a float (decimal number)
+    ```
+- Just like with `type()`, if we actually want to use the outputs given by these functions, we have to save it to a variable:
+```py
+    x = "123"
+    y = int(x)      # the value of y will be 123 (an integer)
+```

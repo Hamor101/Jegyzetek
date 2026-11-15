@@ -1,5 +1,5 @@
 # Guidelines for the exhibition:
-- Font: Double-spaced Times New Roman
+- Font: Double-spaced Times New Roman, size 12
 - Include the prompt/theme
 - References:
   - Images and other sources (including AI) must be referenced (Including date of creation/date of access, source)
